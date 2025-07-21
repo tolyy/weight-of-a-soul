@@ -4010,3 +4010,784 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2025.07.21-10.25.11:956][118]AssetCheck: /Game/PaperAssets/Character/Sprites/Combat_Anim/Skill_Charging Validating asset
 [2025.07.21-10.25.11:956][118]AssetCheck: /Game/PaperAssets/Character/Sprites/Combat_Anim/Slide_Attack Validating asset
 [2025.07.21-10.25.11:956][118]AssetCheck: /Game/PaperAssets/Character/Sprites/Combat_Anim/Throwing Validating asset
+[2025.07.21-10.27.07:598][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2125.502197
+[2025.07.21-10.27.08:598][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.21-10.27.08:598][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2126.168945, Update Interval: 350.095520
+[2025.07.21-10.29.10:381][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.21-10.29.10:384][ 38]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.016
+[2025.07.21-10.29.10:385][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset1] ([1] browsable assets)...
+[2025.07.21-10.29.10:387][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTileset1.BackTileset1]
+[2025.07.21-10.29.10:387][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset1]
+[2025.07.21-10.29.10:389][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset1_Auto2
+[2025.07.21-10.29.10:389][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTileset1_Auto2E0FC6D0145C8E3143BDFB0A70C445837.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset1_Auto2.uasset'
+[2025.07.21-10.29.10:390][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset2] ([1] browsable assets)...
+[2025.07.21-10.29.10:392][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTileset2.BackTileset2]
+[2025.07.21-10.29.10:392][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset2]
+[2025.07.21-10.29.10:394][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset2_Auto2
+[2025.07.21-10.29.10:394][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTileset2_Auto262970BD947593EC810C2CCA49CDA8D0F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset2_Auto2.uasset'
+[2025.07.21-10.29.10:395][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset3] ([1] browsable assets)...
+[2025.07.21-10.29.10:396][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTileset3.BackTileset3]
+[2025.07.21-10.29.10:396][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset3]
+[2025.07.21-10.29.10:398][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset3_Auto2
+[2025.07.21-10.29.10:398][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTileset3_Auto27741E068469C9EDBDECD8DB247F3F800.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset3_Auto2.uasset'
+[2025.07.21-10.29.10:399][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset4] ([1] browsable assets)...
+[2025.07.21-10.29.10:402][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTileset4.BackTileset4]
+[2025.07.21-10.29.10:402][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset4]
+[2025.07.21-10.29.10:403][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset4_Auto2
+[2025.07.21-10.29.10:404][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTileset4_Auto2A0CC8F4F4C8EE6BFD54B1199F02FF2E1.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset4_Auto2.uasset'
+[2025.07.21-10.29.10:405][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_01] ([1] browsable assets)...
+[2025.07.21-10.29.10:406][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_01.BackTile_01]
+[2025.07.21-10.29.10:406][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_01]
+[2025.07.21-10.29.10:408][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_01_Auto2
+[2025.07.21-10.29.10:408][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_01_Auto28CAA51A14938F3F9A59E3FA00E7BD17B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_01_Auto2.uasset'
+[2025.07.21-10.29.10:409][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset6] ([1] browsable assets)...
+[2025.07.21-10.29.10:411][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTileset6.BackTileset6]
+[2025.07.21-10.29.10:411][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset6]
+[2025.07.21-10.29.10:413][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset6_Auto2
+[2025.07.21-10.29.10:413][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTileset6_Auto297BB1A364E1C34D8F17DA381ED82D63F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset6_Auto2.uasset'
+[2025.07.21-10.29.10:414][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset5] ([1] browsable assets)...
+[2025.07.21-10.29.10:416][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTileset5.BackTileset5]
+[2025.07.21-10.29.10:416][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset5]
+[2025.07.21-10.29.10:418][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset5_Auto2
+[2025.07.21-10.29.10:418][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTileset5_Auto2E9C9C3E14E76E89D24CA83A1B21BD0ED.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTileset5_Auto2.uasset'
+[2025.07.21-10.29.10:419][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_03] ([1] browsable assets)...
+[2025.07.21-10.29.10:420][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_03.BackTile_03]
+[2025.07.21-10.29.10:421][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_03]
+[2025.07.21-10.29.10:422][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_03_Auto2
+[2025.07.21-10.29.10:422][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_03_Auto24AF1C8C84CD287E3F965E497C371E628.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_03_Auto2.uasset'
+[2025.07.21-10.29.10:423][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_04] ([1] browsable assets)...
+[2025.07.21-10.29.10:425][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_04.BackTile_04]
+[2025.07.21-10.29.10:425][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_04]
+[2025.07.21-10.29.10:426][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_04_Auto2
+[2025.07.21-10.29.10:426][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_04_Auto2F1C576C9487A05EFF27EB49715BF5979.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_04_Auto2.uasset'
+[2025.07.21-10.29.10:427][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_02] ([1] browsable assets)...
+[2025.07.21-10.29.10:429][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_02.BackTile_02]
+[2025.07.21-10.29.10:429][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_02]
+[2025.07.21-10.29.10:430][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_02_Auto2
+[2025.07.21-10.29.10:431][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_02_Auto20CBE5FB044470079C15D49A5BE8712BA.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_02_Auto2.uasset'
+[2025.07.21-10.29.10:432][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_06] ([1] browsable assets)...
+[2025.07.21-10.29.10:434][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_06.BackTile_06]
+[2025.07.21-10.29.10:434][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_06]
+[2025.07.21-10.29.10:435][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_06_Auto2
+[2025.07.21-10.29.10:435][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_06_Auto240DB2F6641E7EDF50B67E890E8102869.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_06_Auto2.uasset'
+[2025.07.21-10.29.10:436][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_07] ([1] browsable assets)...
+[2025.07.21-10.29.10:438][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_07.BackTile_07]
+[2025.07.21-10.29.10:438][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_07]
+[2025.07.21-10.29.10:439][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_07_Auto2
+[2025.07.21-10.29.10:439][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_07_Auto261FE44A14C534BFDBC03E1933A8FDF11.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_07_Auto2.uasset'
+[2025.07.21-10.29.10:441][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_05] ([1] browsable assets)...
+[2025.07.21-10.29.10:443][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_05.BackTile_05]
+[2025.07.21-10.29.10:443][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_05]
+[2025.07.21-10.29.10:445][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_05_Auto2
+[2025.07.21-10.29.10:445][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_05_Auto2849BFBBE47520F09F2F34AB807401BA4.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_05_Auto2.uasset'
+[2025.07.21-10.29.10:446][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_08] ([1] browsable assets)...
+[2025.07.21-10.29.10:448][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_08.BackTile_08]
+[2025.07.21-10.29.10:448][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_08]
+[2025.07.21-10.29.10:450][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_08_Auto2
+[2025.07.21-10.29.10:450][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_08_Auto28697F997478AC53C3BD94D844770C03F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_08_Auto2.uasset'
+[2025.07.21-10.29.10:451][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_09] ([1] browsable assets)...
+[2025.07.21-10.29.10:452][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_09.BackTile_09]
+[2025.07.21-10.29.10:452][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_09]
+[2025.07.21-10.29.10:454][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_09_Auto2
+[2025.07.21-10.29.10:454][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_09_Auto224E1037B4889CEE5E6421EAF88802C72.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_09_Auto2.uasset'
+[2025.07.21-10.29.10:455][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_10] ([1] browsable assets)...
+[2025.07.21-10.29.10:456][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_10.BackTile_10]
+[2025.07.21-10.29.10:456][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_10]
+[2025.07.21-10.29.10:458][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_10_Auto2
+[2025.07.21-10.29.10:458][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_10_Auto255CF42B246F160301B1C918EF6A928FC.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_10_Auto2.uasset'
+[2025.07.21-10.29.10:459][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_11] ([1] browsable assets)...
+[2025.07.21-10.29.10:461][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_11.BackTile_11]
+[2025.07.21-10.29.10:462][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_11]
+[2025.07.21-10.29.10:463][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_11_Auto2
+[2025.07.21-10.29.10:464][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_11_Auto2FB8531304A16E719EF7360BE0253EA6B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_11_Auto2.uasset'
+[2025.07.21-10.29.10:465][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_12] ([1] browsable assets)...
+[2025.07.21-10.29.10:466][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_12.BackTile_12]
+[2025.07.21-10.29.10:466][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_12]
+[2025.07.21-10.29.10:468][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_12_Auto2
+[2025.07.21-10.29.10:468][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_12_Auto25DE18AC9469CFCBB810ADA9589E7794A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_12_Auto2.uasset'
+[2025.07.21-10.29.10:469][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_13] ([1] browsable assets)...
+[2025.07.21-10.29.10:471][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_13.BackTile_13]
+[2025.07.21-10.29.10:471][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_13]
+[2025.07.21-10.29.10:473][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_13_Auto2
+[2025.07.21-10.29.10:473][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_13_Auto21DA6343D46004F975AA7639E1F8DB65E.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_13_Auto2.uasset'
+[2025.07.21-10.29.10:474][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_14] ([1] browsable assets)...
+[2025.07.21-10.29.10:476][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_14.BackTile_14]
+[2025.07.21-10.29.10:476][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_14]
+[2025.07.21-10.29.10:478][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_14_Auto2
+[2025.07.21-10.29.10:478][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_14_Auto20A378AC04CC3ACE858E74F8E05F827C7.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_14_Auto2.uasset'
+[2025.07.21-10.29.10:479][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_15] ([1] browsable assets)...
+[2025.07.21-10.29.10:481][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_15.BackTile_15]
+[2025.07.21-10.29.10:481][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_15]
+[2025.07.21-10.29.10:483][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_15_Auto2
+[2025.07.21-10.29.10:483][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_15_Auto23BBCC966459E567FD664839A0FC7E5D3.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_15_Auto2.uasset'
+[2025.07.21-10.29.10:484][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_17] ([1] browsable assets)...
+[2025.07.21-10.29.10:485][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_17.BackTile_17]
+[2025.07.21-10.29.10:486][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_17]
+[2025.07.21-10.29.10:487][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_17_Auto2
+[2025.07.21-10.29.10:487][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_17_Auto2B0961B3A42A140DEB7F5F798C98AA06C.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_17_Auto2.uasset'
+[2025.07.21-10.29.10:488][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_20] ([1] browsable assets)...
+[2025.07.21-10.29.10:490][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_20.BackTile_20]
+[2025.07.21-10.29.10:490][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_20]
+[2025.07.21-10.29.10:492][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_20_Auto2
+[2025.07.21-10.29.10:492][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_20_Auto2CD06260F49A3F91CF3FC6D8A696E4DC2.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_20_Auto2.uasset'
+[2025.07.21-10.29.10:494][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_18] ([1] browsable assets)...
+[2025.07.21-10.29.10:494][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_18.BackTile_18]
+[2025.07.21-10.29.10:494][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_18]
+[2025.07.21-10.29.10:497][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_18_Auto2
+[2025.07.21-10.29.10:497][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_18_Auto2BCCB543D46186F4E4E934EBE1526B67C.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_18_Auto2.uasset'
+[2025.07.21-10.29.10:498][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_19] ([1] browsable assets)...
+[2025.07.21-10.29.10:500][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_19.BackTile_19]
+[2025.07.21-10.29.10:500][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_19]
+[2025.07.21-10.29.10:502][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_19_Auto2
+[2025.07.21-10.29.10:502][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_19_Auto287E75D174F869BAA5B370EBDD1CB9E10.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_19_Auto2.uasset'
+[2025.07.21-10.29.10:503][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_16] ([1] browsable assets)...
+[2025.07.21-10.29.10:505][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_16.BackTile_16]
+[2025.07.21-10.29.10:505][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_16]
+[2025.07.21-10.29.10:506][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_16_Auto2
+[2025.07.21-10.29.10:506][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_16_Auto2D0224C0C4241C486AE85AB860FD9CD9F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_16_Auto2.uasset'
+[2025.07.21-10.29.10:507][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_21] ([1] browsable assets)...
+[2025.07.21-10.29.10:509][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_21.BackTile_21]
+[2025.07.21-10.29.10:509][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_21]
+[2025.07.21-10.29.10:511][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_21_Auto2
+[2025.07.21-10.29.10:511][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_21_Auto27BB747534BBEECC8DB2B819BC043DC95.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_21_Auto2.uasset'
+[2025.07.21-10.29.10:512][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_22] ([1] browsable assets)...
+[2025.07.21-10.29.10:514][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_22.BackTile_22]
+[2025.07.21-10.29.10:514][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_22]
+[2025.07.21-10.29.10:515][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_22_Auto2
+[2025.07.21-10.29.10:515][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_22_Auto2D3F905364A9658C95D7DD7BB289F95B4.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_22_Auto2.uasset'
+[2025.07.21-10.29.10:516][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_23] ([1] browsable assets)...
+[2025.07.21-10.29.10:518][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_23.BackTile_23]
+[2025.07.21-10.29.10:518][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_23]
+[2025.07.21-10.29.10:520][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_23_Auto2
+[2025.07.21-10.29.10:520][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_23_Auto233D2D70C416BC21F6322F5A85741E674.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_23_Auto2.uasset'
+[2025.07.21-10.29.10:521][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_26] ([1] browsable assets)...
+[2025.07.21-10.29.10:523][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_26.BackTile_26]
+[2025.07.21-10.29.10:523][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_26]
+[2025.07.21-10.29.10:524][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_26_Auto2
+[2025.07.21-10.29.10:524][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_26_Auto26A38FA0D453EF647573132A1F190C539.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_26_Auto2.uasset'
+[2025.07.21-10.29.10:525][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_24] ([1] browsable assets)...
+[2025.07.21-10.29.10:527][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_24.BackTile_24]
+[2025.07.21-10.29.10:527][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_24]
+[2025.07.21-10.29.10:529][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_24_Auto2
+[2025.07.21-10.29.10:529][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_24_Auto28455603446850AF7A3D2B8B5DBDA4735.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_24_Auto2.uasset'
+[2025.07.21-10.29.10:530][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_25] ([1] browsable assets)...
+[2025.07.21-10.29.10:532][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_25.BackTile_25]
+[2025.07.21-10.29.10:532][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_25]
+[2025.07.21-10.29.10:533][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_25_Auto2
+[2025.07.21-10.29.10:533][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_25_Auto2E2CEF61E44C13A929A145090EE10D8E3.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_25_Auto2.uasset'
+[2025.07.21-10.29.10:534][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_27] ([1] browsable assets)...
+[2025.07.21-10.29.10:535][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_27.BackTile_27]
+[2025.07.21-10.29.10:537][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_27]
+[2025.07.21-10.29.10:538][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_27_Auto2
+[2025.07.21-10.29.10:538][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_27_Auto2AFE305204B86B3C34B59CDA4C775DAB2.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_27_Auto2.uasset'
+[2025.07.21-10.29.10:539][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_28] ([1] browsable assets)...
+[2025.07.21-10.29.10:541][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_28.BackTile_28]
+[2025.07.21-10.29.10:542][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_28]
+[2025.07.21-10.29.10:543][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_28_Auto2
+[2025.07.21-10.29.10:543][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_28_Auto2EE05B2B64BCBB8812AE53B8DD25754FB.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_28_Auto2.uasset'
+[2025.07.21-10.29.10:544][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_29] ([1] browsable assets)...
+[2025.07.21-10.29.10:546][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_29.BackTile_29]
+[2025.07.21-10.29.10:546][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_29]
+[2025.07.21-10.29.10:549][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_29_Auto2
+[2025.07.21-10.29.10:549][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_29_Auto2DB1093084A12ED189EC87F8009796DA1.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_29_Auto2.uasset'
+[2025.07.21-10.29.10:550][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_32] ([1] browsable assets)...
+[2025.07.21-10.29.10:551][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_32.BackTile_32]
+[2025.07.21-10.29.10:551][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_32]
+[2025.07.21-10.29.10:553][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_32_Auto2
+[2025.07.21-10.29.10:553][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_32_Auto274CB11E64666910EEF21EAA6B5310DD1.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_32_Auto2.uasset'
+[2025.07.21-10.29.10:554][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_36] ([1] browsable assets)...
+[2025.07.21-10.29.10:556][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_36.BackTile_36]
+[2025.07.21-10.29.10:556][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_36]
+[2025.07.21-10.29.10:557][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_36_Auto2
+[2025.07.21-10.29.10:557][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_36_Auto25650D8FE4B34838EC1EAEF8BB39908F9.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_36_Auto2.uasset'
+[2025.07.21-10.29.10:558][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_31] ([1] browsable assets)...
+[2025.07.21-10.29.10:561][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_31.BackTile_31]
+[2025.07.21-10.29.10:561][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_31]
+[2025.07.21-10.29.10:563][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_31_Auto2
+[2025.07.21-10.29.10:563][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_31_Auto2605F01894104A62603C1E3A6D175BB12.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_31_Auto2.uasset'
+[2025.07.21-10.29.10:565][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_35] ([1] browsable assets)...
+[2025.07.21-10.29.10:571][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_35.BackTile_35]
+[2025.07.21-10.29.10:571][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_35]
+[2025.07.21-10.29.10:573][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_35_Auto2
+[2025.07.21-10.29.10:573][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_35_Auto230DD74A54A4D5AD69C9550964BB2F857.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_35_Auto2.uasset'
+[2025.07.21-10.29.10:574][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_30] ([1] browsable assets)...
+[2025.07.21-10.29.10:576][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_30.BackTile_30]
+[2025.07.21-10.29.10:576][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_30]
+[2025.07.21-10.29.10:578][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_30_Auto2
+[2025.07.21-10.29.10:578][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_30_Auto2CC7C0EBC4F9C0AB3C9847F9CE248DC5D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_30_Auto2.uasset'
+[2025.07.21-10.29.10:579][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_34] ([1] browsable assets)...
+[2025.07.21-10.29.10:582][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_34.BackTile_34]
+[2025.07.21-10.29.10:582][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_34]
+[2025.07.21-10.29.10:584][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_34_Auto2
+[2025.07.21-10.29.10:584][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_34_Auto25E7DF6CA49B4316C5D90E89EAA506096.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_34_Auto2.uasset'
+[2025.07.21-10.29.10:585][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_33] ([1] browsable assets)...
+[2025.07.21-10.29.10:587][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/4_BackTiles/BackTile_33.BackTile_33]
+[2025.07.21-10.29.10:587][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_33]
+[2025.07.21-10.29.10:588][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_33_Auto2
+[2025.07.21-10.29.10:589][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BackTile_33_Auto2934D78A343EACFB1DEDB878A9A183A12.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/4_BackTiles/BackTile_33_Auto2.uasset'
+[2025.07.21-10.29.10:589][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Button] ([1] browsable assets)...
+[2025.07.21-10.29.10:591][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Button.Button]
+[2025.07.21-10.29.10:591][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Button]
+[2025.07.21-10.29.10:593][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Button_Auto2
+[2025.07.21-10.29.10:593][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Button_Auto24D8E90EE4BC0089B47AA3884071719F1.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Button_Auto2.uasset'
+[2025.07.21-10.29.10:594][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Chest] ([1] browsable assets)...
+[2025.07.21-10.29.10:596][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Chest.Chest]
+[2025.07.21-10.29.10:596][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Chest]
+[2025.07.21-10.29.10:598][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Chest_Auto2
+[2025.07.21-10.29.10:598][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Chest_Auto23C399F7A4378E35B921009800334537B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Chest_Auto2.uasset'
+[2025.07.21-10.29.10:599][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Button2] ([1] browsable assets)...
+[2025.07.21-10.29.10:601][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Button2.Button2]
+[2025.07.21-10.29.10:601][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Button2]
+[2025.07.21-10.29.10:603][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Button2_Auto2
+[2025.07.21-10.29.10:603][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Button2_Auto21A27656446CAA897510D8FBCD22349B3.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Button2_Auto2.uasset'
+[2025.07.21-10.29.10:604][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Door] ([1] browsable assets)...
+[2025.07.21-10.29.10:606][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Door.Door]
+[2025.07.21-10.29.10:606][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Door]
+[2025.07.21-10.29.10:608][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Door_Auto2
+[2025.07.21-10.29.10:608][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Door_Auto243B8E27148C89893CDBBD282F905B67E.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Door_Auto2.uasset'
+[2025.07.21-10.29.10:609][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Ladder1] ([1] browsable assets)...
+[2025.07.21-10.29.10:611][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Ladder1.Ladder1]
+[2025.07.21-10.29.10:611][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Ladder1]
+[2025.07.21-10.29.10:612][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder1_Auto2
+[2025.07.21-10.29.10:612][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Ladder1_Auto2FDDFD39B4D8DD5D8FA8DCC8B936660E2.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder1_Auto2.uasset'
+[2025.07.21-10.29.10:613][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Door2] ([1] browsable assets)...
+[2025.07.21-10.29.10:615][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Door2.Door2]
+[2025.07.21-10.29.10:615][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Door2]
+[2025.07.21-10.29.10:617][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Door2_Auto2
+[2025.07.21-10.29.10:617][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Door2_Auto2F8852D2041A019267F724DBE51C29DF8.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Door2_Auto2.uasset'
+[2025.07.21-10.29.10:618][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Ladder2] ([1] browsable assets)...
+[2025.07.21-10.29.10:620][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Ladder2.Ladder2]
+[2025.07.21-10.29.10:620][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Ladder2]
+[2025.07.21-10.29.10:622][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder2_Auto2
+[2025.07.21-10.29.10:622][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Ladder2_Auto2A1D6CB854B5D71339158E985ED35D4D4.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder2_Auto2.uasset'
+[2025.07.21-10.29.10:623][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Ladder3] ([1] browsable assets)...
+[2025.07.21-10.29.10:625][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Ladder3.Ladder3]
+[2025.07.21-10.29.10:625][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Ladder3]
+[2025.07.21-10.29.10:627][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder3_Auto2
+[2025.07.21-10.29.10:627][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Ladder3_Auto210C421E9432FFE10675678A1EBB60A9B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder3_Auto2.uasset'
+[2025.07.21-10.29.10:628][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Ladder4] ([1] browsable assets)...
+[2025.07.21-10.29.10:630][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Ladder4.Ladder4]
+[2025.07.21-10.29.10:630][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Ladder4]
+[2025.07.21-10.29.10:631][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder4_Auto2
+[2025.07.21-10.29.10:631][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Ladder4_Auto22156B5E245CBC9B79B207480CE1A8DD1.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder4_Auto2.uasset'
+[2025.07.21-10.29.10:632][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Lever] ([1] browsable assets)...
+[2025.07.21-10.29.10:633][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Lever.Lever]
+[2025.07.21-10.29.10:634][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Lever]
+[2025.07.21-10.29.10:635][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Lever_Auto2
+[2025.07.21-10.29.10:635][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Lever_Auto2FC2C055942D8F04A7739E29E384DFB7D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Lever_Auto2.uasset'
+[2025.07.21-10.29.10:636][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Ladder6] ([1] browsable assets)...
+[2025.07.21-10.29.10:638][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Ladder6.Ladder6]
+[2025.07.21-10.29.10:638][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Ladder6]
+[2025.07.21-10.29.10:640][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder6_Auto2
+[2025.07.21-10.29.10:640][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Ladder6_Auto26CF110AB4DB916EBDFCC41B67E155022.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder6_Auto2.uasset'
+[2025.07.21-10.29.10:641][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Ladder5] ([1] browsable assets)...
+[2025.07.21-10.29.10:643][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Ladder5.Ladder5]
+[2025.07.21-10.29.10:643][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Ladder5]
+[2025.07.21-10.29.10:644][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder5_Auto2
+[2025.07.21-10.29.10:644][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Ladder5_Auto2081F8CBC4FC63DCD99380BBAE6A6735F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Ladder5_Auto2.uasset'
+[2025.07.21-10.29.10:645][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Objects1] ([1] browsable assets)...
+[2025.07.21-10.29.10:647][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Objects1.Objects1]
+[2025.07.21-10.29.10:647][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Objects1]
+[2025.07.21-10.29.10:650][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects1_Auto2
+[2025.07.21-10.29.10:650][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Objects1_Auto200918F134F89499469F26BB7D78F90A3.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects1_Auto2.uasset'
+[2025.07.21-10.29.10:651][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Objects2] ([1] browsable assets)...
+[2025.07.21-10.29.10:653][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Objects2.Objects2]
+[2025.07.21-10.29.10:653][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Objects2]
+[2025.07.21-10.29.10:656][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects2_Auto2
+[2025.07.21-10.29.10:656][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Objects2_Auto229091D8A4200FDD51DE8B399162F881C.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects2_Auto2.uasset'
+[2025.07.21-10.29.10:657][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Objects3] ([1] browsable assets)...
+[2025.07.21-10.29.10:659][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Objects3.Objects3]
+[2025.07.21-10.29.10:659][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Objects3]
+[2025.07.21-10.29.10:662][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects3_Auto2
+[2025.07.21-10.29.10:662][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Objects3_Auto296DF6C594BF0DB438E3F40B4291A13C5.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects3_Auto2.uasset'
+[2025.07.21-10.29.10:663][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Objects4] ([1] browsable assets)...
+[2025.07.21-10.29.10:664][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Objects4.Objects4]
+[2025.07.21-10.29.10:664][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Objects4]
+[2025.07.21-10.29.10:667][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects4_Auto2
+[2025.07.21-10.29.10:667][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Objects4_Auto28A2CFE414927E8E7812A33988E1F7E9A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects4_Auto2.uasset'
+[2025.07.21-10.29.10:668][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Objects6] ([1] browsable assets)...
+[2025.07.21-10.29.10:670][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Objects6.Objects6]
+[2025.07.21-10.29.10:670][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Objects6]
+[2025.07.21-10.29.10:673][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects6_Auto2
+[2025.07.21-10.29.10:673][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Objects6_Auto237E1F1DC44779D50291829AFDA9EDF10.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects6_Auto2.uasset'
+[2025.07.21-10.29.10:674][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Rope1] ([1] browsable assets)...
+[2025.07.21-10.29.10:676][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Rope1.Rope1]
+[2025.07.21-10.29.10:676][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Rope1]
+[2025.07.21-10.29.10:678][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Rope1_Auto2
+[2025.07.21-10.29.10:678][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Rope1_Auto243B23DC841A62F787E99E5B9D9A7604A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Rope1_Auto2.uasset'
+[2025.07.21-10.29.10:679][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Objects5] ([1] browsable assets)...
+[2025.07.21-10.29.10:682][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Objects5.Objects5]
+[2025.07.21-10.29.10:682][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Objects5]
+[2025.07.21-10.29.10:685][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects5_Auto2
+[2025.07.21-10.29.10:685][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Objects5_Auto28959AD6540DADBF577074F8316618C83.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Objects5_Auto2.uasset'
+[2025.07.21-10.29.10:685][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Rope2] ([1] browsable assets)...
+[2025.07.21-10.29.10:687][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Rope2.Rope2]
+[2025.07.21-10.29.10:687][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Rope2]
+[2025.07.21-10.29.10:689][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Rope2_Auto2
+[2025.07.21-10.29.10:689][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Rope2_Auto2AF5E154347BF7BFB2F5B7F8957B3F299.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Rope2_Auto2.uasset'
+[2025.07.21-10.29.10:690][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Rope3] ([1] browsable assets)...
+[2025.07.21-10.29.10:692][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Rope3.Rope3]
+[2025.07.21-10.29.10:692][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Rope3]
+[2025.07.21-10.29.10:694][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Rope3_Auto2
+[2025.07.21-10.29.10:694][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Rope3_Auto2C59A384F4B40A3E99C012E9F42426E9D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Rope3_Auto2.uasset'
+[2025.07.21-10.29.10:695][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Spikes2] ([1] browsable assets)...
+[2025.07.21-10.29.10:697][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Spikes2.Spikes2]
+[2025.07.21-10.29.10:697][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Spikes2]
+[2025.07.21-10.29.10:698][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes2_Auto2
+[2025.07.21-10.29.10:698][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Spikes2_Auto28199C363459D84ACA655E7A618D132BA.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes2_Auto2.uasset'
+[2025.07.21-10.29.10:699][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Spikes1] ([1] browsable assets)...
+[2025.07.21-10.29.10:702][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Spikes1.Spikes1]
+[2025.07.21-10.29.10:702][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Spikes1]
+[2025.07.21-10.29.10:704][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes1_Auto2
+[2025.07.21-10.29.10:704][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Spikes1_Auto2FB61ADC54C15C28E5837B59B71210D02.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes1_Auto2.uasset'
+[2025.07.21-10.29.10:705][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Spikes1_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:706][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Spikes1_2.Spikes1_2]
+[2025.07.21-10.29.10:706][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Spikes1_2]
+[2025.07.21-10.29.10:709][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes1_2_Auto2
+[2025.07.21-10.29.10:709][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Spikes1_2_Auto296184F634E9447EB2915B4A3AF3A6469.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes1_2_Auto2.uasset'
+[2025.07.21-10.29.10:710][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Spikes2_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:712][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Spikes2_2.Spikes2_2]
+[2025.07.21-10.29.10:712][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Spikes2_2]
+[2025.07.21-10.29.10:713][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes2_2_Auto2
+[2025.07.21-10.29.10:713][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Spikes2_2_Auto264DD7ED644BA5D4FB83C3DB294C66FD4.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes2_2_Auto2.uasset'
+[2025.07.21-10.29.10:714][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Spikes3_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:716][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Spikes3_2.Spikes3_2]
+[2025.07.21-10.29.10:716][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Spikes3_2]
+[2025.07.21-10.29.10:718][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes3_2_Auto2
+[2025.07.21-10.29.10:718][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Spikes3_2_Auto29202764040FDCBD8195C9FBF38C799A9.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes3_2_Auto2.uasset'
+[2025.07.21-10.29.10:719][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Spikes3] ([1] browsable assets)...
+[2025.07.21-10.29.10:721][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Spikes3.Spikes3]
+[2025.07.21-10.29.10:721][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Spikes3]
+[2025.07.21-10.29.10:723][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes3_Auto2
+[2025.07.21-10.29.10:723][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Spikes3_Auto21C8064AF48921FD6DD8653B940A9771B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Spikes3_Auto2.uasset'
+[2025.07.21-10.29.10:724][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Target] ([1] browsable assets)...
+[2025.07.21-10.29.10:726][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Target.Target]
+[2025.07.21-10.29.10:726][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Target]
+[2025.07.21-10.29.10:727][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Target_Auto2
+[2025.07.21-10.29.10:729][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Target_Auto284737D5240D58FB506193F834C0AD58E.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Target_Auto2.uasset'
+[2025.07.21-10.29.10:730][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Target2] ([1] browsable assets)...
+[2025.07.21-10.29.10:731][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Target2.Target2]
+[2025.07.21-10.29.10:731][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Target2]
+[2025.07.21-10.29.10:733][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Target2_Auto2
+[2025.07.21-10.29.10:733][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Target2_Auto2DD1FE1B84D15A772090C1186E2474078.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Target2_Auto2.uasset'
+[2025.07.21-10.29.10:734][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3] ([1] browsable assets)...
+[2025.07.21-10.29.10:736][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3.h1x3]
+[2025.07.21-10.29.10:736][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3]
+[2025.07.21-10.29.10:738][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_Auto2
+[2025.07.21-10.29.10:738][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x3_Auto2B9DF00E14E20309F16DC0C90206656BE.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_Auto2.uasset'
+[2025.07.21-10.29.10:739][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/Target3] ([1] browsable assets)...
+[2025.07.21-10.29.10:741][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/Target3.Target3]
+[2025.07.21-10.29.10:741][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/Target3]
+[2025.07.21-10.29.10:744][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Target3_Auto2
+[2025.07.21-10.29.10:744][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Target3_Auto2C11F8E1A4EA8A36E31627B9345E4F4C9.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/Target3_Auto2.uasset'
+[2025.07.21-10.29.10:745][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/5_Objects/TrainingDummy] ([1] browsable assets)...
+[2025.07.21-10.29.10:747][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/5_Objects/TrainingDummy.TrainingDummy]
+[2025.07.21-10.29.10:747][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/5_Objects/TrainingDummy]
+[2025.07.21-10.29.10:749][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/5_Objects/TrainingDummy_Auto2
+[2025.07.21-10.29.10:749][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/TrainingDummy_Auto2B953559B448EE8ED3DDD94A5FFD3CC94.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/5_Objects/TrainingDummy_Auto2.uasset'
+[2025.07.21-10.29.10:749][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5] ([1] browsable assets)...
+[2025.07.21-10.29.10:751][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5.h1x5]
+[2025.07.21-10.29.10:751][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5]
+[2025.07.21-10.29.10:753][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_Auto2
+[2025.07.21-10.29.10:753][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x5_Auto27A1E11B043E14A37FD34F6AB130EE0C7.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_Auto2.uasset'
+[2025.07.21-10.29.10:754][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:755][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_2.h1x5_2]
+[2025.07.21-10.29.10:756][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_2]
+[2025.07.21-10.29.10:758][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_2_Auto2
+[2025.07.21-10.29.10:758][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x5_2_Auto2FD829CCE4EACF0C0EED741A2BA03FDAD.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x5_2_Auto2.uasset'
+[2025.07.21-10.29.10:759][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:761][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_2.h1x3_2]
+[2025.07.21-10.29.10:761][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_2]
+[2025.07.21-10.29.10:763][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_2_Auto2
+[2025.07.21-10.29.10:763][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x3_2_Auto2636C71804DB5B3DD3DE38F83A8120D3D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x3_2_Auto2.uasset'
+[2025.07.21-10.29.10:765][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7] ([1] browsable assets)...
+[2025.07.21-10.29.10:769][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7.h1x7]
+[2025.07.21-10.29.10:769][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7]
+[2025.07.21-10.29.10:771][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_Auto2
+[2025.07.21-10.29.10:771][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x7_Auto270693D6F4C2DD309BA764EB043DD90CF.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_Auto2.uasset'
+[2025.07.21-10.29.10:773][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:774][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_2.h1x7_2]
+[2025.07.21-10.29.10:774][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_2]
+[2025.07.21-10.29.10:776][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_2_Auto2
+[2025.07.21-10.29.10:776][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x7_2_Auto2751020684D4A75A49C0CB88C46156270.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x7_2_Auto2.uasset'
+[2025.07.21-10.29.10:777][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9] ([1] browsable assets)...
+[2025.07.21-10.29.10:779][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9.h1x9]
+[2025.07.21-10.29.10:779][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9]
+[2025.07.21-10.29.10:781][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_Auto2
+[2025.07.21-10.29.10:781][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x9_Auto2F5CC4BE9431C021E57D665B857B41FB3.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_Auto2.uasset'
+[2025.07.21-10.29.10:781][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:783][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_2.h1x9_2]
+[2025.07.21-10.29.10:783][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_2]
+[2025.07.21-10.29.10:785][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_2_Auto2
+[2025.07.21-10.29.10:785][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/h1x9_2_Auto24B01722944AFBF7881828EA8B718E840.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/h1x9_2_Auto2.uasset'
+[2025.07.21-10.29.10:786][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs1] ([1] browsable assets)...
+[2025.07.21-10.29.10:788][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs1.Prefabs1]
+[2025.07.21-10.29.10:788][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs1]
+[2025.07.21-10.29.10:791][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs1_Auto2
+[2025.07.21-10.29.10:791][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Prefabs1_Auto222778D3A4DC04FEF4E1CD6B8EBF47C83.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs1_Auto2.uasset'
+[2025.07.21-10.29.10:791][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs2] ([1] browsable assets)...
+[2025.07.21-10.29.10:794][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs2.Prefabs2]
+[2025.07.21-10.29.10:794][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs2]
+[2025.07.21-10.29.10:797][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs2_Auto2
+[2025.07.21-10.29.10:797][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Prefabs2_Auto2E6F96CE2455C5F7C8D2F388F8F08B159.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs2_Auto2.uasset'
+[2025.07.21-10.29.10:798][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs3] ([1] browsable assets)...
+[2025.07.21-10.29.10:800][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs3.Prefabs3]
+[2025.07.21-10.29.10:800][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs3]
+[2025.07.21-10.29.10:802][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs3_Auto2
+[2025.07.21-10.29.10:802][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Prefabs3_Auto2E4E1A2184646BE502C5C7A957843C772.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs3_Auto2.uasset'
+[2025.07.21-10.29.10:803][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs4] ([1] browsable assets)...
+[2025.07.21-10.29.10:805][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs4.Prefabs4]
+[2025.07.21-10.29.10:805][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs4]
+[2025.07.21-10.29.10:808][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs4_Auto2
+[2025.07.21-10.29.10:808][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Prefabs4_Auto270DEA0C44F0673D1DB6630938FC46D8D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs4_Auto2.uasset'
+[2025.07.21-10.29.10:809][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs6] ([1] browsable assets)...
+[2025.07.21-10.29.10:811][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs6.Prefabs6]
+[2025.07.21-10.29.10:811][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs6]
+[2025.07.21-10.29.10:813][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs6_Auto2
+[2025.07.21-10.29.10:814][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Prefabs6_Auto2EAD7EB4D423CBE83530E678459E141B2.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs6_Auto2.uasset'
+[2025.07.21-10.29.10:815][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs5] ([1] browsable assets)...
+[2025.07.21-10.29.10:817][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs5.Prefabs5]
+[2025.07.21-10.29.10:817][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs5]
+[2025.07.21-10.29.10:820][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs5_Auto2
+[2025.07.21-10.29.10:820][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Prefabs5_Auto23870FB5C4A5092D21733CEB59286A865.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/Prefabs5_Auto2.uasset'
+[2025.07.21-10.29.10:821][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r1] ([1] browsable assets)...
+[2025.07.21-10.29.10:823][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/r1.r1]
+[2025.07.21-10.29.10:823][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r1]
+[2025.07.21-10.29.10:824][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r1_Auto2
+[2025.07.21-10.29.10:824][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/r1_Auto214D76D3741B3ACCF6D5A6C8AFA403C08.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r1_Auto2.uasset'
+[2025.07.21-10.29.10:825][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r4] ([1] browsable assets)...
+[2025.07.21-10.29.10:827][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/r4.r4]
+[2025.07.21-10.29.10:827][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r4]
+[2025.07.21-10.29.10:829][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r4_Auto2
+[2025.07.21-10.29.10:829][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/r4_Auto2A97FAE7E4E2CA8A471047EA9F9232995.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r4_Auto2.uasset'
+[2025.07.21-10.29.10:830][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r3] ([1] browsable assets)...
+[2025.07.21-10.29.10:832][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/r3.r3]
+[2025.07.21-10.29.10:832][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r3]
+[2025.07.21-10.29.10:834][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r3_Auto2
+[2025.07.21-10.29.10:834][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/r3_Auto27478D43E4F19773EB31166A6C79DCE18.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r3_Auto2.uasset'
+[2025.07.21-10.29.10:834][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r2] ([1] browsable assets)...
+[2025.07.21-10.29.10:837][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/r2.r2]
+[2025.07.21-10.29.10:837][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/r2]
+[2025.07.21-10.29.10:839][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r2_Auto2
+[2025.07.21-10.29.10:839][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/r2_Auto20D4152674C2FD96E7909D69DF3782BBC.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/r2_Auto2.uasset'
+[2025.07.21-10.29.10:840][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/s3] ([1] browsable assets)...
+[2025.07.21-10.29.10:843][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/s3.s3]
+[2025.07.21-10.29.10:843][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/s3]
+[2025.07.21-10.29.10:844][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/s3_Auto2
+[2025.07.21-10.29.10:844][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/s3_Auto28737AEF4416F158158C2AF908FE3C5D7.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/s3_Auto2.uasset'
+[2025.07.21-10.29.10:845][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/s2] ([1] browsable assets)...
+[2025.07.21-10.29.10:846][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/s2.s2]
+[2025.07.21-10.29.10:847][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/s2]
+[2025.07.21-10.29.10:848][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/s2_Auto2
+[2025.07.21-10.29.10:848][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/s2_Auto2800A2C4742BC075DC1AEDD85FFC26000.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/s2_Auto2.uasset'
+[2025.07.21-10.29.10:849][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/s4] ([1] browsable assets)...
+[2025.07.21-10.29.10:851][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/s4.s4]
+[2025.07.21-10.29.10:851][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/s4]
+[2025.07.21-10.29.10:853][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/s4_Auto2
+[2025.07.21-10.29.10:853][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/s4_Auto2162CDF304E94140B03CB509995096B49.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/s4_Auto2.uasset'
+[2025.07.21-10.29.10:854][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1] ([1] browsable assets)...
+[2025.07.21-10.29.10:855][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1.v3x1]
+[2025.07.21-10.29.10:855][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1]
+[2025.07.21-10.29.10:858][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_Auto2
+[2025.07.21-10.29.10:858][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/v3x1_Auto2388AC394432EB4440C5F999D0F7E6E42.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_Auto2.uasset'
+[2025.07.21-10.29.10:859][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:862][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_2.v3x1_2]
+[2025.07.21-10.29.10:862][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_2]
+[2025.07.21-10.29.10:864][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_2_Auto2
+[2025.07.21-10.29.10:864][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/v3x1_2_Auto26C5B236D43AC77A2CBF0FD8574798AA0.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v3x1_2_Auto2.uasset'
+[2025.07.21-10.29.10:865][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1] ([1] browsable assets)...
+[2025.07.21-10.29.10:866][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1.v5x1]
+[2025.07.21-10.29.10:866][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1]
+[2025.07.21-10.29.10:868][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_Auto2
+[2025.07.21-10.29.10:868][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/v5x1_Auto2AAAC1CE84851EB18C1DEC8ADEE294B27.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_Auto2.uasset'
+[2025.07.21-10.29.10:869][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:871][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_2.v5x1_2]
+[2025.07.21-10.29.10:871][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_2]
+[2025.07.21-10.29.10:872][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_2_Auto2
+[2025.07.21-10.29.10:873][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/v5x1_2_Auto2C494873E4D6C811FF329A5A609952288.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v5x1_2_Auto2.uasset'
+[2025.07.21-10.29.10:874][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_2] ([1] browsable assets)...
+[2025.07.21-10.29.10:875][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_2.v7x1_2]
+[2025.07.21-10.29.10:875][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_2]
+[2025.07.21-10.29.10:877][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_2_Auto2
+[2025.07.21-10.29.10:877][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/v7x1_2_Auto22CBB1F1641C0324FC12E97AD21102942.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_2_Auto2.uasset'
+[2025.07.21-10.29.10:878][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1] ([1] browsable assets)...
+[2025.07.21-10.29.10:882][ 38]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1.v7x1]
+[2025.07.21-10.29.10:882][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1]
+[2025.07.21-10.29.10:883][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_Auto2
+[2025.07.21-10.29.10:883][ 38]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/v7x1_Auto2E98D932E47DDB71294D3E5AE0CE40165.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Enviroment/2_TilePrefabs/v7x1_Auto2.uasset'
+[2025.07.21-10.29.10:884][ 38]LogFileHelpers: Auto-saving content packages took 0.500
+[2025.07.21-10.33.53:962][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2531.871826
+[2025.07.21-10.33.54:963][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.21-10.33.54:963][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2532.538330, Update Interval: 312.197021
+[2025.07.21-10.37.50:053][618]LogTexture: Display: Building textures: /Game/PaperAssets/Character/Sprites/Move_Anim/Climbing_Ladder.Climbing_Ladder (BGRA8, 1152x128 x1x1x1) (Required Memory Estimate: 6.0625 MB), EncodeSpeed: Fast
+[2025.07.21-10.38.10:549][815]LogSlate: Took 0.007619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.21-10.38.16:689][182]LogSlate: Window 'Extract sprites' being destroyed
+[2025.07.21-10.38.38:369][463]LogTexture: Display: Building textures: /Game/PaperAssets/Character/Sprites/Move_Anim/Running.Running (BGRA8, 1536x128 x1x1x1) (Required Memory Estimate: 7.750 MB), EncodeSpeed: Fast
+[2025.07.21-10.39.39:874][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2877.778076
+[2025.07.21-10.39.40:107][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.21-10.39.40:107][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2877.994629, Update Interval: 344.917145
+[2025.07.21-10.40.25:409][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.07.21-10.40.25:414][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.021
+[2025.07.21-10.40.25:415][439]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Climbing_Ladder] ([1] browsable assets)...
+[2025.07.21-10.40.25:416][439]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Climbing_Ladder.Climbing_Ladder]
+[2025.07.21-10.40.25:417][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Climbing_Ladder]
+[2025.07.21-10.40.25:419][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Climbing_Ladder_Auto3
+[2025.07.21-10.40.25:419][439]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Climbing_Ladder_Auto32E29100743075EA4CC8B7190B038A70A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Climbing_Ladder_Auto3.uasset'
+[2025.07.21-10.40.25:420][439]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running] ([1] browsable assets)...
+[2025.07.21-10.40.25:422][439]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Running.Running]
+[2025.07.21-10.40.25:422][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running]
+[2025.07.21-10.40.25:424][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Auto3
+[2025.07.21-10.40.25:424][439]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Auto3FDB3DBC947E37F7A957B7EA6CFE4A370.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Auto3.uasset'
+[2025.07.21-10.40.25:425][439]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.07.21-10.41.33:017][977]LogSlate: Window 'Extract sprites' being destroyed
+[2025.07.21-10.41.33:256][978]LogStreaming: Display: FlushAsyncLoading(997): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.21-10.41.55:173][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.07.21-10.41.57:777][255]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.21-10.41.57:806][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.07.21-10.41.57:818][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.07.21-10.41.57:830][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.21-10.42.00:012][381]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.21-10.42.00:027][381]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.21-10.42.20:747][601]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Running.Running
+[2025.07.21-10.42.25:062][828]LogSlate: Window 'Running' being destroyed
+[2025.07.21-10.42.25:079][828]LogSlate: Window 'Running' being destroyed
+[2025.07.21-10.42.46:641][ 83]LogSlate: Window 'Extract sprites' being destroyed
+[2025.07.21-10.43.16:813][858]LogContentBrowser: Deferred new asset file creation: Running1
+[2025.07.21-10.43.16:821][858]LogContentBrowser: Creating deferred item: Running1
+[2025.07.21-10.43.16:838][859]LogContentBrowser: Renaming the item being created (Deferred Item: Running1).
+[2025.07.21-10.43.27:579][504]LogContentBrowser: Attempting asset rename: Running1 -> BP_Running
+[2025.07.21-10.43.27:582][504]LogContentBrowser: End creating deferred item Running1
+[2025.07.21-10.45.11:363][672]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.21-10.45.11:371][672]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.21-10.45.11:382][673]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.21-10.45.15:758][936]LogContentBrowser: Attempting asset rename: NewFolder -> Flipbooks
+[2025.07.21-10.45.15:758][936]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.21-10.45.32:459][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.21-10.45.32:460][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Flipbooks/BP_Running] ([1] browsable assets)...
+[2025.07.21-10.45.32:462][905]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Character/Flipbooks/BP_Running.BP_Running]
+[2025.07.21-10.45.32:462][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Flipbooks/BP_Running]
+[2025.07.21-10.45.32:465][905]LogSavePackage: Moving output files for package: /Game/PaperAssets/Character/Flipbooks/BP_Running
+[2025.07.21-10.45.32:465][905]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BP_Running45B8ACBF4197B8968684C3931B480014.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Flipbooks/BP_Running.uasset'
+[2025.07.21-10.45.32:466][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.716 ms (total: 755.538 ms)
+[2025.07.21-10.45.32:529][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.07.21-10.45.32:541][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.21-10.45.32:553][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.07.21-10.45.32:624][905]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.07.21-10.45.32:624][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.21-10.45.32:624][905]LogContentValidation: Enabled validators:
+[2025.07.21-10.45.32:624][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.21-10.45.32:624][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.21-10.45.32:624][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.21-10.45.32:624][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.21-10.45.32:624][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.21-10.45.32:624][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.21-10.45.32:625][905]AssetCheck: /Game/PaperAssets/Character/Flipbooks/BP_Running Validating asset
+[2025.07.21-10.45.48:700][857]LogContentBrowser: Attempting asset rename: BP_Running -> FB_Running
+[2025.07.21-10.45.48:840][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.21-10.45.48:840][857]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Character/Flipbooks/FB_Running] ([1] browsable assets)...
+[2025.07.21-10.45.48:840][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Flipbooks/FB_Running]
+[2025.07.21-10.45.48:842][857]LogSavePackage: Moving output files for package: /Game/PaperAssets/Character/Flipbooks/FB_Running
+[2025.07.21-10.45.48:842][857]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/FB_Running474EB176423E961F531D41930B78AB8F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Flipbooks/FB_Running.uasset'
+[2025.07.21-10.45.48:843][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.743 ms (total: 758.281 ms)
+[2025.07.21-10.45.48:863][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.07.21-10.45.48:876][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.07.21-10.45.48:887][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.07.21-10.45.48:996][857]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.21-10.45.48:996][857]LogContentValidation: Enabled validators:
+[2025.07.21-10.45.48:996][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.21-10.45.48:996][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.21-10.45.48:996][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.21-10.45.48:996][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.21-10.45.48:996][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.21-10.45.48:996][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.21-10.45.48:996][857]AssetCheck: /Game/PaperAssets/Character/Flipbooks/FB_Running Validating asset
+[2025.07.21-10.46.16:148][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3274.052734
+[2025.07.21-10.46.16:415][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.21-10.46.16:415][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3274.303711, Update Interval: 303.484589
+[2025.07.21-10.48.22:204][991]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping.Jumping
+[2025.07.21-10.48.35:643][ 24]LogSlate: Window 'Jumping' being destroyed
+[2025.07.21-10.48.35:658][ 24]LogSlate: Window 'Jumping' being destroyed
+[2025.07.21-10.48.44:531][877]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Leap.Leap
+[2025.07.21-10.48.53:238][509]LogSlate: Window 'Leap' being destroyed
+[2025.07.21-10.48.53:256][509]LogSlate: Window 'Leap' being destroyed
+[2025.07.21-10.49.01:562][273]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Double_Jump.Double_Jump
+[2025.07.21-10.49.10:146][879]LogSlate: Window 'Double_Jump' being destroyed
+[2025.07.21-10.49.10:166][879]LogSlate: Window 'Double_Jump' being destroyed
+[2025.07.21-10.49.12:966][162]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping.Jumping
+[2025.07.21-10.49.16:563][389]LogSlate: Window 'Jumping' being destroyed
+[2025.07.21-10.49.16:581][389]LogSlate: Window 'Jumping' being destroyed
+[2025.07.21-10.49.19:427][682]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Landing.Landing
+[2025.07.21-10.49.27:562][225]LogSlate: Window 'Landing' being destroyed
+[2025.07.21-10.49.29:630][421]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping.Jumping
+[2025.07.21-10.49.57:653][964]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Falling.Falling
+[2025.07.21-10.50.08:142][950]LogSlate: Window 'Jumping' being destroyed
+[2025.07.21-10.50.08:158][950]LogSlate: Window 'Jumping' being destroyed
+[2025.07.21-10.50.16:614][745]LogTexture: Display: Building textures: /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping.Jumping (BGRA8, 1280x128 x1x1x1) (Required Memory Estimate: 6.624992 MB), EncodeSpeed: Final
+[2025.07.21-10.50.39:315][ 57]LogSlate: Window 'Extract sprites' being destroyed
+[2025.07.21-10.50.47:592][806]LogContentBrowser: Deferred new asset file creation: Jumping1
+[2025.07.21-10.50.47:624][806]LogContentBrowser: Creating deferred item: Jumping1
+[2025.07.21-10.50.47:662][807]LogContentBrowser: Renaming the item being created (Deferred Item: Jumping1).
+[2025.07.21-10.50.54:260][465]LogContentBrowser: Attempting asset rename: Jumping1 -> FB_Jump
+[2025.07.21-10.50.54:261][465]LogContentBrowser: End creating deferred item Jumping1
+[2025.07.21-10.51.08:799][720]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.21-10.51.08:816][720]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.21-10.51.35:418][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.21-10.51.35:422][424]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.123
+[2025.07.21-10.51.35:422][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping] ([1] browsable assets)...
+[2025.07.21-10.51.35:424][424]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping.Jumping]
+[2025.07.21-10.51.35:424][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping]
+[2025.07.21-10.51.35:426][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Auto4
+[2025.07.21-10.51.35:426][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Auto4237C88EF44FFB58303D318A7ECCD781D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Auto4.uasset'
+[2025.07.21-10.51.35:428][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_0] ([1] browsable assets)...
+[2025.07.21-10.51.35:430][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_0.Running_Sprite_0]
+[2025.07.21-10.51.35:430][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_0]
+[2025.07.21-10.51.35:433][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_0_Auto4
+[2025.07.21-10.51.35:433][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_0_Auto4841C4B7F4D44D540A642D389728B1940.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_0_Auto4.uasset'
+[2025.07.21-10.51.35:434][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_1] ([1] browsable assets)...
+[2025.07.21-10.51.35:437][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_1.Running_Sprite_1]
+[2025.07.21-10.51.35:437][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_1]
+[2025.07.21-10.51.35:439][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_1_Auto4
+[2025.07.21-10.51.35:439][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_1_Auto425A66AC2437AFC8C7B153C80EFEC9510.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_1_Auto4.uasset'
+[2025.07.21-10.51.35:441][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_2] ([1] browsable assets)...
+[2025.07.21-10.51.35:443][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_2.Running_Sprite_2]
+[2025.07.21-10.51.35:443][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_2]
+[2025.07.21-10.51.35:445][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_2_Auto4
+[2025.07.21-10.51.35:445][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_2_Auto4B274AD2B4EB91435175A3BA7D15CEF5A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_2_Auto4.uasset'
+[2025.07.21-10.51.35:446][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_3] ([1] browsable assets)...
+[2025.07.21-10.51.35:448][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_3.Running_Sprite_3]
+[2025.07.21-10.51.35:448][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_3]
+[2025.07.21-10.51.35:450][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_3_Auto4
+[2025.07.21-10.51.35:450][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_3_Auto448FDBC6A4D0BE188335C30B6C5D56260.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_3_Auto4.uasset'
+[2025.07.21-10.51.35:452][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_4] ([1] browsable assets)...
+[2025.07.21-10.51.35:454][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_4.Running_Sprite_4]
+[2025.07.21-10.51.35:454][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_4]
+[2025.07.21-10.51.35:456][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_4_Auto4
+[2025.07.21-10.51.35:456][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_4_Auto4B47297E7466D87D37CF481A11B2633F7.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_4_Auto4.uasset'
+[2025.07.21-10.51.35:457][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_5] ([1] browsable assets)...
+[2025.07.21-10.51.35:459][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_5.Running_Sprite_5]
+[2025.07.21-10.51.35:459][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_5]
+[2025.07.21-10.51.35:461][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_5_Auto4
+[2025.07.21-10.51.35:461][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_5_Auto468BCEB96454D5876E589069E29884A10.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_5_Auto4.uasset'
+[2025.07.21-10.51.35:463][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_6] ([1] browsable assets)...
+[2025.07.21-10.51.35:465][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_6.Running_Sprite_6]
+[2025.07.21-10.51.35:465][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_6]
+[2025.07.21-10.51.35:466][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_6_Auto4
+[2025.07.21-10.51.35:466][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_6_Auto473471D774D15869BB198F2B682561103.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_6_Auto4.uasset'
+[2025.07.21-10.51.35:469][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_7] ([1] browsable assets)...
+[2025.07.21-10.51.35:471][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_7.Running_Sprite_7]
+[2025.07.21-10.51.35:471][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_7]
+[2025.07.21-10.51.35:473][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_7_Auto4
+[2025.07.21-10.51.35:473][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_7_Auto42880D93B47EE8F22D1EA259E58B6668E.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_7_Auto4.uasset'
+[2025.07.21-10.51.35:475][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_8] ([1] browsable assets)...
+[2025.07.21-10.51.35:477][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_8.Running_Sprite_8]
+[2025.07.21-10.51.35:477][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_8]
+[2025.07.21-10.51.35:479][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_8_Auto4
+[2025.07.21-10.51.35:479][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_8_Auto40BAED2E044893DF39EB03EB12769FAD8.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_8_Auto4.uasset'
+[2025.07.21-10.51.35:480][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_9] ([1] browsable assets)...
+[2025.07.21-10.51.35:482][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_9.Running_Sprite_9]
+[2025.07.21-10.51.35:482][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_9]
+[2025.07.21-10.51.35:485][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_9_Auto4
+[2025.07.21-10.51.35:485][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_9_Auto4D8D5E2F8428DFF032410D0802BBC1FFF.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_9_Auto4.uasset'
+[2025.07.21-10.51.35:486][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_10] ([1] browsable assets)...
+[2025.07.21-10.51.35:489][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_10.Running_Sprite_10]
+[2025.07.21-10.51.35:489][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_10]
+[2025.07.21-10.51.35:491][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_10_Auto4
+[2025.07.21-10.51.35:491][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_10_Auto4E63E34CD4D97E93B95FBD29DFAE78CDE.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_10_Auto4.uasset'
+[2025.07.21-10.51.35:493][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_11] ([1] browsable assets)...
+[2025.07.21-10.51.35:497][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_11.Running_Sprite_11]
+[2025.07.21-10.51.35:497][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_11]
+[2025.07.21-10.51.35:500][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_11_Auto4
+[2025.07.21-10.51.35:500][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Running_Sprite_11_Auto4340E0B55491C172611B507ABF45E340A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Running_Sprite_11_Auto4.uasset'
+[2025.07.21-10.51.35:501][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_0] ([1] browsable assets)...
+[2025.07.21-10.51.35:503][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_0.Jumping_Sprite_0]
+[2025.07.21-10.51.35:503][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_0]
+[2025.07.21-10.51.35:505][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_0_Auto4
+[2025.07.21-10.51.35:505][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_0_Auto4BDA59C30491F4458D1608987D88773AE.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_0_Auto4.uasset'
+[2025.07.21-10.51.35:507][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_1] ([1] browsable assets)...
+[2025.07.21-10.51.35:510][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_1.Jumping_Sprite_1]
+[2025.07.21-10.51.35:510][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_1]
+[2025.07.21-10.51.35:512][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_1_Auto4
+[2025.07.21-10.51.35:512][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_1_Auto42B1041F746D9AD2AFB549FA2E2EB4413.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_1_Auto4.uasset'
+[2025.07.21-10.51.35:514][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_2] ([1] browsable assets)...
+[2025.07.21-10.51.35:516][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_2.Jumping_Sprite_2]
+[2025.07.21-10.51.35:516][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_2]
+[2025.07.21-10.51.35:518][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_2_Auto4
+[2025.07.21-10.51.35:518][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_2_Auto47D57ED73491A040FE664B49209FC8542.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_2_Auto4.uasset'
+[2025.07.21-10.51.35:519][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_3] ([1] browsable assets)...
+[2025.07.21-10.51.35:522][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_3.Jumping_Sprite_3]
+[2025.07.21-10.51.35:522][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_3]
+[2025.07.21-10.51.35:524][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_3_Auto4
+[2025.07.21-10.51.35:525][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_3_Auto4306DDBF34DCC0B824AB7808E425FC7C0.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_3_Auto4.uasset'
+[2025.07.21-10.51.35:526][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_4] ([1] browsable assets)...
+[2025.07.21-10.51.35:528][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_4.Jumping_Sprite_4]
+[2025.07.21-10.51.35:528][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_4]
+[2025.07.21-10.51.35:530][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_4_Auto4
+[2025.07.21-10.51.35:530][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_4_Auto41B75261F479DC9A9E5C452A0AFF3A191.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_4_Auto4.uasset'
+[2025.07.21-10.51.35:532][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_5] ([1] browsable assets)...
+[2025.07.21-10.51.35:534][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_5.Jumping_Sprite_5]
+[2025.07.21-10.51.35:534][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_5]
+[2025.07.21-10.51.35:536][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_5_Auto4
+[2025.07.21-10.51.35:536][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_5_Auto4B5D41B9C47015D1D53F6E5BA107B21E9.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_5_Auto4.uasset'
+[2025.07.21-10.51.35:538][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_6] ([1] browsable assets)...
+[2025.07.21-10.51.35:540][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_6.Jumping_Sprite_6]
+[2025.07.21-10.51.35:540][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_6]
+[2025.07.21-10.51.35:543][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_6_Auto4
+[2025.07.21-10.51.35:543][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_6_Auto4E0C0982D463802532183B6BE5696AD7D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_6_Auto4.uasset'
+[2025.07.21-10.51.35:545][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_7] ([1] browsable assets)...
+[2025.07.21-10.51.35:547][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_7.Jumping_Sprite_7]
+[2025.07.21-10.51.35:547][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_7]
+[2025.07.21-10.51.35:549][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_7_Auto4
+[2025.07.21-10.51.35:549][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_7_Auto404EA1110440E5F38790E0493F1319B12.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_7_Auto4.uasset'
+[2025.07.21-10.51.35:550][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_8] ([1] browsable assets)...
+[2025.07.21-10.51.35:553][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_8.Jumping_Sprite_8]
+[2025.07.21-10.51.35:553][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_8]
+[2025.07.21-10.51.35:555][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_8_Auto4
+[2025.07.21-10.51.35:555][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_8_Auto414A1FC7B4D51E93EDA7D368B4FFD5877.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_8_Auto4.uasset'
+[2025.07.21-10.51.35:557][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_9] ([1] browsable assets)...
+[2025.07.21-10.51.35:559][424]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_9.Jumping_Sprite_9]
+[2025.07.21-10.51.35:559][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_9]
+[2025.07.21-10.51.35:561][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_9_Auto4
+[2025.07.21-10.51.35:561][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Jumping_Sprite_9_Auto4E4C60DB84D805EA9186C9E9627A02F8A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Jumping_Sprite_9_Auto4.uasset'
+[2025.07.21-10.51.35:562][424]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/FB_Jump] ([1] browsable assets)...
+[2025.07.21-10.51.35:564][424]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Character/Sprites/Move_Anim/FB_Jump.FB_Jump]
+[2025.07.21-10.51.35:564][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/FB_Jump]
+[2025.07.21-10.51.35:566][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/FB_Jump_Auto4
+[2025.07.21-10.51.35:566][424]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/FB_Jump_Auto4C17F6C1140B4A0A171574B9B35F02626.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/FB_Jump_Auto4.uasset'
+[2025.07.21-10.51.35:567][424]LogFileHelpers: Auto-saving content packages took 0.146
+[2025.07.21-10.52.06:599][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3624.462891
+[2025.07.21-10.52.06:843][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.21-10.52.06:843][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3624.697998, Update Interval: 326.690277
+[2025.07.21-10.52.35:865][921]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Stop_Running.Stop_Running
+[2025.07.21-10.52.39:041][104]LogSlate: Window 'Stop_Running' being destroyed
+[2025.07.21-10.52.39:062][104]LogSlate: Window 'Stop_Running' being destroyed
+[2025.07.21-10.52.52:915][302]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Jump_witn_Strike.Jump_witn_Strike
+[2025.07.21-10.53.02:081][906]LogSlate: Window 'Jump_witn_Strike' being destroyed
+[2025.07.21-10.53.02:105][906]LogSlate: Window 'Jump_witn_Strike' being destroyed
+[2025.07.21-10.53.23:419][963]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.21-10.53.23:429][963]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.21-10.53.23:442][964]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.21-10.53.25:960][218]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.07.21-10.53.25:961][218]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.21-10.53.32:446][741]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.21-10.53.32:464][741]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.21-10.53.32:472][741]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.21-10.53.32:504][743]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.21-10.53.35:237][ 17]LogDerivedDataCache: C:/Users/malid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.21-10.53.35:411][ 35]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.07.21-10.53.35:485][ 35]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.21-10.53.39:658][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.07.21-10.53.40:978][384]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.21-10.53.41:015][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.21-10.53.41:030][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.21-10.53.41:045][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.07.21-10.53.54:385][550]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.21-10.53.54:407][550]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.21-10.53.54:414][550]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.21-10.53.54:436][552]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.21-10.53.57:929][918]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Player
+[2025.07.21-10.53.57:946][918]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.21-10.53.59:776][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.07.21-10.53.59:798][ 98]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.07.21-10.54.00:079][ 98]LogStreaming: Display: FlushAsyncLoading(998): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.21-10.54.02:807][ 98]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.07.21-10.54.02:819][ 98]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
