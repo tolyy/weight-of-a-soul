@@ -5,7 +5,34 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/maps/map_1.umap",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Ability_Use.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Aiming.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Carrying_Object.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Casting_Spell.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Counterattack.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Defense_attack.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Defensive_Stance.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Dodge.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Enchanced_Impact_1.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Enchanced_impact_2.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Explosive_Strike.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Fire_Kick.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Ground_Slam.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Hurt.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Ice_Charge.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Ise_Strice.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Jump_Kick.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Jump_Strike.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Kick.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Power_Strike.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Protect.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Punch_1.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Punch_2.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Skill_Charging.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Slide_Attack.uasset",
+				"C:/Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Combat_Anim/Throwing.uasset"
 			]
 		}
 	]
