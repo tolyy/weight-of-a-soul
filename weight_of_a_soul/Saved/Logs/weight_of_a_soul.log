@@ -7038,3 +7038,504 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.31-13.53.53:970][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
 [2025.07.31-13.53.53:978][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2025.07.31-13.53.54:034][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.07.31-13.55.41:504][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.31-13.55.41:507][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.024
+[2025.07.31-13.55.41:508][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.07.31-13.55.41:508][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.07.31-13.55.41:520][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Player_Auto4
+[2025.07.31-13.55.41:520][494]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BP_Player_Auto4808E00D74C68368A2A16D78E85C6D971.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/Blueprints/BP_Player_Auto4.uasset'
+[2025.07.31-13.55.41:521][494]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.07.31-13.59.19:094][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18734.460938
+[2025.07.31-13.59.20:095][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-13.59.20:095][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18735.128906, Update Interval: 305.586731
+[2025.07.31-14.05.09:813][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19085.376953
+[2025.07.31-14.05.10:812][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.05.10:812][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19086.042969, Update Interval: 329.184235
+[2025.07.31-14.11.13:872][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19449.615234
+[2025.07.31-14.11.14:871][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.11.14:871][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19450.281250, Update Interval: 339.923706
+[2025.07.31-14.16.21:953][347]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.31-14.16.21:960][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-14.16.21:998][347]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_map_1
+[2025.07.31-14.16.22:001][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002057s)
+[2025.07.31-14.16.22:001][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/map_1.map_1 to /Game/maps/UEDPIE_0_map_1.map_1 (0.002132s)
+[2025.07.31-14.16.22:025][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.07.31-14.16.22:027][347]LogChaosDD: Creating Chaos Debug Draw Scene for world map_1
+[2025.07.31-14.16.22:029][347]LogPlayLevel: PIE: World Init took: (0.001743s)
+[2025.07.31-14.16.22:029][347]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-14.16.22:029][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.31-14.16.22:029][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-14.16.22:029][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-14.16.22:029][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-14.16.22:029][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-14.16.22:032][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-14.16.22:065][347]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.07.31-14.16.22:066][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-14.16.22:066][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-14.16.22:066][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-14.16.22:066][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.07.31-14.16.22:066][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.07.31-14.16.22:069][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.07.31-14.16.22:069][347]LogInit: FAudioDevice initialized with ID 48.
+[2025.07.31-14.16.22:069][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.07.31-14.16.22:069][347]LogAudio: Display: Audio Device (ID: 48) registered with world 'map_1'.
+[2025.07.31-14.16.22:069][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.07.31-14.16.22:073][347]LogLoad: Game class is 'GM_Platformer_C'
+[2025.07.31-14.16.22:074][347]LogWorld: Bringing World /Game/maps/UEDPIE_0_map_1.map_1 up for play (max tick rate 60) at 2025.07.31-17.16.22
+[2025.07.31-14.16.22:074][347]LogWorld: Bringing up level for play took: 0.000928
+[2025.07.31-14.16.22:077][347]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.07.31-14.16.22:080][347]PIE: Server logged in
+[2025.07.31-14.16.22:081][347]PIE: Play in editor total start time 0.121 seconds.
+[2025.07.31-14.17.26:225][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-14.17.26:225][193]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_map_1
+[2025.07.31-14.17.26:225][193]LogWorld: UWorld::CleanupWorld for map_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.17.26:226][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.17.26:231][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-14.17.26:238][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.17.26:259][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.31-14.17.26:259][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.07.31-14.17.26:259][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.07.31-14.17.26:261][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.07.31-14.17.26:265][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-14.17.26:267][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.31-14.17.26:323][194]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.07.31-14.17.26:705][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19823.306641
+[2025.07.31-14.17.26:941][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.17.26:941][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19823.527344, Update Interval: 319.338348
+[2025.07.31-14.18.01:650][296]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.18.01:652][296]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Crouch.Crouch
+[2025.07.31-14.18.13:710][998]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.18.13:710][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.18.13:763][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.07.31-14.18.17:844][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-14.18.17:936][242]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Platforming] ([1] browsable assets)...
+[2025.07.31-14.18.17:936][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Platforming]
+[2025.07.31-14.18.17:937][242]LogSavePackage: Moving output files for package: /Game/Input/IMC_Platforming
+[2025.07.31-14.18.17:937][242]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/IMC_Platforming9E9527894DDF05A5071CB59E066C7820.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/Input/IMC_Platforming.uasset'
+[2025.07.31-14.18.17:950][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.813 ms (total: 3.08 sec)
+[2025.07.31-14.18.18:050][242]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-14.18.18:050][242]LogContentValidation: Enabled validators:
+[2025.07.31-14.18.18:050][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-14.18.18:050][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-14.18.18:050][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-14.18.18:050][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-14.18.18:050][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-14.18.18:050][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-14.18.18:051][242]AssetCheck: /Game/Input/IMC_Platforming Validating asset
+[2025.07.31-14.18.20:560][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-14.18.20:647][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Platformer] ([2] browsable assets)...
+[2025.07.31-14.18.20:647][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Platformer]
+[2025.07.31-14.18.20:650][389]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Platformer
+[2025.07.31-14.18.20:650][389]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/GM_Platformer14C1D63B41A42385041FE9844D30CD4B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/Blueprints/GM_Platformer.uasset'
+[2025.07.31-14.18.20:666][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.711 ms (total: 3.18 sec)
+[2025.07.31-14.18.20:756][389]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-14.18.20:756][389]LogContentValidation: Enabled validators:
+[2025.07.31-14.18.20:756][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-14.18.20:756][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-14.18.20:756][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-14.18.20:756][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-14.18.20:756][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-14.18.20:756][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-14.18.20:756][389]AssetCheck: /Game/Blueprints/GM_Platformer Validating asset
+[2025.07.31-14.18.22:101][468]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.18.22:101][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.18.22:208][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.31-14.18.24:413][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-14.18.24:493][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.07.31-14.18.24:493][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.07.31-14.18.24:504][598]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.07.31-14.18.24:505][598]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BP_Player1D9896BE404DD8FE9ED165B74ECC1A6C.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/Blueprints/BP_Player.uasset'
+[2025.07.31-14.18.24:517][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.250 ms (total: 3.29 sec)
+[2025.07.31-14.18.24:612][598]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-14.18.24:613][598]LogContentValidation: Enabled validators:
+[2025.07.31-14.18.24:613][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-14.18.24:613][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-14.18.24:613][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-14.18.24:613][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-14.18.24:613][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-14.18.24:613][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-14.18.24:613][598]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.07.31-14.18.55:923][468]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.18.55:925][468]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Landing.Landing
+[2025.07.31-14.19.06:641][ 94]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.19.06:643][ 94]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Platform_Jump.Platform_Jump
+[2025.07.31-14.19.25:588][211]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.19.25:590][211]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Landing_with_Impact.Landing_with_Impact
+[2025.07.31-14.19.47:234][488]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.19.47:235][488]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Stop_Running.Stop_Running
+[2025.07.31-14.19.58:424][142]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.19.58:425][142]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump.Side_Jump
+[2025.07.31-14.20.16:125][182]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.20.16:128][182]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Walking.Walking
+[2025.07.31-14.20.31:656][ 92]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.20.31:658][ 92]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Wall_Jump.Wall_Jump
+[2025.07.31-14.21.36:194][937]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Running.Running
+[2025.07.31-14.22.03:886][571]LogStreaming: Display: FlushAsyncLoading(724): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.22.03:887][571]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Crawl.Crawl
+[2025.07.31-14.22.13:963][154]LogStreaming: Display: FlushAsyncLoading(725): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-14.22.13:964][154]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Falling.Falling
+[2025.07.31-14.22.34:934][387]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump.Side_Jump
+[2025.07.31-14.22.53:487][460]LogTexture: Display: Building textures: /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump.Side_Jump (BGRA8, 1280x128 x1x1x1) (Required Memory Estimate: 6.624992 MB), EncodeSpeed: Final
+[2025.07.31-14.23.13:007][599]LogSlate: Window 'Extract sprites' being destroyed
+[2025.07.31-14.23.23:862][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20183.121094
+[2025.07.31-14.23.24:128][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.23.24:128][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20183.371094, Update Interval: 345.378571
+[2025.07.31-14.23.41:454][255]LogSlate: Window 'Extract sprites' being destroyed
+[2025.07.31-14.23.45:244][459]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.31-14.23.45:253][459]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.31-14.23.54:986][ 23]LogContentBrowser: Deferred new asset file creation: Side_Jump1
+[2025.07.31-14.23.55:004][ 23]LogContentBrowser: Creating deferred item: Side_Jump1
+[2025.07.31-14.23.55:018][ 24]LogContentBrowser: Renaming the item being created (Deferred Item: Side_Jump1).
+[2025.07.31-14.24.02:692][485]LogContentBrowser: Attempting asset rename: Side_Jump1 -> FB_Idle
+[2025.07.31-14.24.02:694][485]LogContentBrowser: End creating deferred item Side_Jump1
+[2025.07.31-14.24.07:222][742]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PaperAssets/Character/Sprites/Move_Anim/FB_Idle.FB_Idle
+[2025.07.31-14.24.07:223][742]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2025.07.31-14.24.52:251][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-14.24.52:337][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/FB_Idle] ([1] browsable assets)...
+[2025.07.31-14.24.52:340][403]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/PaperAssets/Character/Sprites/Move_Anim/FB_Idle.FB_Idle]
+[2025.07.31-14.24.52:340][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/FB_Idle]
+[2025.07.31-14.24.52:341][403]LogSavePackage: Moving output files for package: /Game/PaperAssets/Character/Sprites/Move_Anim/FB_Idle
+[2025.07.31-14.24.52:341][403]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/FB_IdleE4045B9447A2D0F23C2C7F9F578CFD0F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Sprites/Move_Anim/FB_Idle.uasset'
+[2025.07.31-14.24.52:352][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.963 ms (total: 3.39 sec)
+[2025.07.31-14.24.52:448][403]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-14.24.52:448][403]LogContentValidation: Enabled validators:
+[2025.07.31-14.24.52:448][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-14.24.52:448][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-14.24.52:448][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-14.24.52:448][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-14.24.52:448][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-14.24.52:448][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-14.24.52:448][403]AssetCheck: /Game/PaperAssets/Character/Sprites/Move_Anim/FB_Idle Validating asset
+[2025.07.31-14.25.00:426][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.07.31-14.25.15:143][856]LogSlate: Window 'Replace References?' being destroyed
+[2025.07.31-14.25.15:157][856]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with FB_Idle; and then delete them.
+
+Are you sure?
+[2025.07.31-14.25.15:157][856]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.31-14.25.15:221][856]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.31-14.25.15:221][856]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.25.15:221][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.25.15:422][856]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.25.15:423][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.25.15:466][856]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.25.15:466][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.25.15:934][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.07.31-14.25.17:564][856]LogSlate: Window 'Save Content' being destroyed
+[2025.07.31-14.25.17:581][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-14.25.17:677][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.07.31-14.25.17:678][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.07.31-14.25.17:689][856]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.07.31-14.25.17:690][856]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BP_PlayerC759623C485F02609495AB87918EFDE4.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/Blueprints/BP_Player.uasset'
+[2025.07.31-14.25.17:691][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Character/Flipbooks/FB_Idle] ([1] browsable assets)...
+[2025.07.31-14.25.17:691][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Flipbooks/FB_Idle]
+[2025.07.31-14.25.17:692][856]LogSavePackage: Moving output files for package: /Game/PaperAssets/Character/Flipbooks/FB_Idle
+[2025.07.31-14.25.17:692][856]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/FB_Idle75F0D1B14B5611071424AAB46C3935B9.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Flipbooks/FB_Idle.uasset'
+[2025.07.31-14.25.17:707][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.978 ms (total: 3.51 sec)
+[2025.07.31-14.25.17:802][856]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.31-14.25.17:802][856]LogContentValidation: Enabled validators:
+[2025.07.31-14.25.17:802][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-14.25.17:802][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-14.25.17:802][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-14.25.17:802][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-14.25.17:802][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-14.25.17:803][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-14.25.17:803][856]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.07.31-14.25.17:803][856]AssetCheck: /Game/PaperAssets/Character/Flipbooks/FB_Idle Validating asset
+[2025.07.31-14.25.17:840][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.31-14.25.20:970][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.07.31-14.25.20:973][ 34]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.020
+[2025.07.31-14.25.20:973][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump] ([1] browsable assets)...
+[2025.07.31-14.25.20:975][ 34]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump.Side_Jump]
+[2025.07.31-14.25.20:975][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump]
+[2025.07.31-14.25.20:977][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Auto5
+[2025.07.31-14.25.20:977][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Auto513FB925B46A48A1DE2BA6CA67F34357A.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Auto5.uasset'
+[2025.07.31-14.25.20:978][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_0] ([1] browsable assets)...
+[2025.07.31-14.25.20:980][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_0.Side_Jump_Sprite_0]
+[2025.07.31-14.25.20:980][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_0]
+[2025.07.31-14.25.20:982][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_0_Auto5
+[2025.07.31-14.25.20:982][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_0_Auto50AEA381844A656EC70778789814E5479.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_0_Auto5.uasset'
+[2025.07.31-14.25.20:983][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_1] ([1] browsable assets)...
+[2025.07.31-14.25.20:985][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_1.Side_Jump_Sprite_1]
+[2025.07.31-14.25.20:985][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_1]
+[2025.07.31-14.25.20:986][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_1_Auto5
+[2025.07.31-14.25.20:986][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_1_Auto56634ADB347CE1BFF4CB217B93D60446D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_1_Auto5.uasset'
+[2025.07.31-14.25.20:987][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_2] ([1] browsable assets)...
+[2025.07.31-14.25.20:989][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_2.Side_Jump_Sprite_2]
+[2025.07.31-14.25.20:989][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_2]
+[2025.07.31-14.25.20:991][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_2_Auto5
+[2025.07.31-14.25.20:991][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_2_Auto51487948C438410DB0E4B2BAA768B4F74.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_2_Auto5.uasset'
+[2025.07.31-14.25.20:992][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_3] ([1] browsable assets)...
+[2025.07.31-14.25.20:994][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_3.Side_Jump_Sprite_3]
+[2025.07.31-14.25.20:994][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_3]
+[2025.07.31-14.25.20:996][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_3_Auto5
+[2025.07.31-14.25.20:996][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_3_Auto5C87E7A9C4AC3D21778D65EB72277AD36.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_3_Auto5.uasset'
+[2025.07.31-14.25.20:998][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_4] ([1] browsable assets)...
+[2025.07.31-14.25.20:999][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_4.Side_Jump_Sprite_4]
+[2025.07.31-14.25.20:999][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_4]
+[2025.07.31-14.25.21:001][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_4_Auto5
+[2025.07.31-14.25.21:001][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_4_Auto5F0CEFF534B3EE55EC20272BAE3DD9F71.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_4_Auto5.uasset'
+[2025.07.31-14.25.21:002][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_5] ([1] browsable assets)...
+[2025.07.31-14.25.21:004][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_5.Side_Jump_Sprite_5]
+[2025.07.31-14.25.21:004][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_5]
+[2025.07.31-14.25.21:006][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_5_Auto5
+[2025.07.31-14.25.21:006][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_5_Auto574124F334147B1D46E392C803539C2CF.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_5_Auto5.uasset'
+[2025.07.31-14.25.21:007][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_6] ([1] browsable assets)...
+[2025.07.31-14.25.21:009][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_6.Side_Jump_Sprite_6]
+[2025.07.31-14.25.21:009][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_6]
+[2025.07.31-14.25.21:011][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_6_Auto5
+[2025.07.31-14.25.21:011][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_6_Auto5933B28CB4C2DBC30CD3B908FDC33C023.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_6_Auto5.uasset'
+[2025.07.31-14.25.21:012][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_7] ([1] browsable assets)...
+[2025.07.31-14.25.21:014][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_7.Side_Jump_Sprite_7]
+[2025.07.31-14.25.21:014][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_7]
+[2025.07.31-14.25.21:016][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_7_Auto5
+[2025.07.31-14.25.21:016][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_7_Auto5F29DD801467CED9BD2E90B941BF1103F.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_7_Auto5.uasset'
+[2025.07.31-14.25.21:017][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_8] ([1] browsable assets)...
+[2025.07.31-14.25.21:019][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_8.Side_Jump_Sprite_8]
+[2025.07.31-14.25.21:019][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_8]
+[2025.07.31-14.25.21:020][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_8_Auto5
+[2025.07.31-14.25.21:020][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_8_Auto52C81B65B428A98403BF2A98951566D7D.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_8_Auto5.uasset'
+[2025.07.31-14.25.21:022][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_9] ([1] browsable assets)...
+[2025.07.31-14.25.21:023][ 34]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_9.Side_Jump_Sprite_9]
+[2025.07.31-14.25.21:023][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_9]
+[2025.07.31-14.25.21:025][ 34]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_9_Auto5
+[2025.07.31-14.25.21:025][ 34]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Side_Jump_Sprite_9_Auto5514D032747ECB17CC11E79922B4A6437.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/Autosaves/Game/PaperAssets/Character/Sprites/Move_Anim/Side_Jump_Sprite_9_Auto5.uasset'
+[2025.07.31-14.25.21:026][ 34]LogFileHelpers: Auto-saving content packages took 0.054
+[2025.07.31-14.25.34:300][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-14.25.34:300][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.07.31-14.25.34:300][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.07.31-14.25.34:311][789]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.07.31-14.25.34:312][789]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/BP_Player4F05F92C4D257755E2A1C7825AAAC6EB.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/Blueprints/BP_Player.uasset'
+[2025.07.31-14.25.34:313][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperAssets/Character/Flipbooks/FB_Idle] ([1] browsable assets)...
+[2025.07.31-14.25.34:313][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperAssets/Character/Flipbooks/FB_Idle]
+[2025.07.31-14.25.34:314][789]LogSavePackage: Moving output files for package: /Game/PaperAssets/Character/Flipbooks/FB_Idle
+[2025.07.31-14.25.34:315][789]LogSavePackage: Moving '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Saved/FB_Idle36EF712043185B62A3A88FADC8326A1B.tmp' to '../../../../../../Users/malid/Documents/Unreal Projects/weight_of_a_soul/weight-of-a-soul/weight_of_a_soul/Content/PaperAssets/Character/Flipbooks/FB_Idle.uasset'
+[2025.07.31-14.25.34:316][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.472 ms (total: 3.53 sec)
+[2025.07.31-14.25.34:362][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.07.31-14.25.34:387][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.31-14.25.34:411][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.07.31-14.25.34:479][789]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.07.31-14.25.34:479][789]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.31-14.25.34:479][789]LogContentValidation: Enabled validators:
+[2025.07.31-14.25.34:479][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-14.25.34:479][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-14.25.34:479][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-14.25.34:479][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-14.25.34:479][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-14.25.34:479][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-14.25.34:479][789]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.07.31-14.25.34:479][789]AssetCheck: /Game/PaperAssets/Character/Flipbooks/FB_Idle Validating asset
+[2025.07.31-14.25.36:692][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.31-14.25.36:699][919]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.07.31-14.25.36:728][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.07.31-14.25.36:734][919]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.07.31-14.25.36:764][919]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_0_map_1
+[2025.07.31-14.25.36:765][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001503s)
+[2025.07.31-14.25.36:765][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/map_1.map_1 to /Game/maps/UEDPIE_0_map_1.map_1 (0.001548s)
+[2025.07.31-14.25.36:787][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.07.31-14.25.36:789][919]LogChaosDD: Creating Chaos Debug Draw Scene for world map_1
+[2025.07.31-14.25.36:791][919]LogPlayLevel: PIE: World Init took: (0.001542s)
+[2025.07.31-14.25.36:791][919]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.07.31-14.25.36:791][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-14.25.36:791][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-14.25.36:791][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-14.25.36:791][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-14.25.36:791][919]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.31-14.25.36:792][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-14.25.36:792][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.31-14.25.36:792][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-14.25.36:792][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-14.25.36:792][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-14.25.36:792][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-14.25.36:794][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-14.25.36:829][919]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2025.07.31-14.25.36:829][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-14.25.36:829][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-14.25.36:829][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-14.25.36:830][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.07.31-14.25.36:830][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.07.31-14.25.36:833][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.07.31-14.25.36:833][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.07.31-14.25.36:833][919]LogInit: FAudioDevice initialized with ID 49.
+[2025.07.31-14.25.36:833][919]LogAudio: Display: Audio Device (ID: 49) registered with world 'map_1'.
+[2025.07.31-14.25.36:833][919]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.07.31-14.25.36:836][919]LogLoad: Game class is 'GM_Platformer_C'
+[2025.07.31-14.25.36:836][919]LogWorld: Bringing World /Game/maps/UEDPIE_0_map_1.map_1 up for play (max tick rate 60) at 2025.07.31-17.25.36
+[2025.07.31-14.25.36:837][919]LogWorld: Bringing up level for play took: 0.000890
+[2025.07.31-14.25.36:839][919]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.07.31-14.25.36:842][919]PIE: Server logged in
+[2025.07.31-14.25.36:843][919]PIE: Play in editor total start time 0.146 seconds.
+[2025.07.31-14.29.49:546][ 79]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20572.201172
+[2025.07.31-14.29.49:812][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.29.49:813][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20572.457031, Update Interval: 328.882111
+[2025.07.31-14.33.29:960][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-14.33.29:960][300]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_0_map_1
+[2025.07.31-14.33.29:960][300]LogWorld: UWorld::CleanupWorld for map_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-14.33.29:960][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.33.29:965][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-14.33.29:971][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-14.33.29:990][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-14.33.29:990][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.07.31-14.33.29:990][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.07.31-14.33.29:993][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.07.31-14.33.30:001][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.07.31-14.33.30:058][301]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.07.31-14.36.05:555][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20952.578125
+[2025.07.31-14.36.06:122][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.36.06:123][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20953.138672, Update Interval: 300.789215
+[2025.07.31-14.42.05:995][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21314.984375
+[2025.07.31-14.42.06:993][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.42.06:993][799]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21315.650391, Update Interval: 345.252228
+[2025.07.31-14.43.14:772][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.31-14.43.14:775][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.022
+[2025.07.31-14.48.31:716][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21700.855469
+[2025.07.31-14.48.32:717][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.48.32:717][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21701.521484, Update Interval: 340.639679
+[2025.07.31-14.49.04:209][ 51]LogDerivedDataCache: C:/Users/malid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.31-14.53.15:533][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.31-14.53.15:536][804]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.025
+[2025.07.31-14.55.04:117][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22093.449219
+[2025.07.31-14.55.05:118][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-14.55.05:118][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22094.113281, Update Interval: 312.709747
+[2025.07.31-15.01.15:527][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22465.085938
+[2025.07.31-15.01.16:526][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.01.16:526][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22465.751953, Update Interval: 331.951050
+[2025.07.31-15.03.15:994][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.31-15.03.15:996][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.025
+[2025.07.31-15.07.46:263][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22856.076172
+[2025.07.31-15.07.47:264][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.07.47:264][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22856.742188, Update Interval: 315.767700
+[2025.07.31-15.13.16:421][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.31-15.13.16:423][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.023
+[2025.07.31-15.13.53:325][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23223.371094
+[2025.07.31-15.13.54:327][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.13.54:327][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23224.039062, Update Interval: 343.036591
+[2025.07.31-15.20.20:063][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23610.328125
+[2025.07.31-15.20.21:063][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.20.21:063][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23610.996094, Update Interval: 318.637054
+[2025.07.31-15.23.16:852][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.07.31-15.23.16:854][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.019
+[2025.07.31-15.26.14:779][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23965.263672
+[2025.07.31-15.26.17:447][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.26.17:447][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23967.597656, Update Interval: 316.688751
+[2025.07.31-15.32.18:832][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24329.496094
+[2025.07.31-15.32.31:500][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.32.31:500][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24341.837891, Update Interval: 330.616180
+[2025.07.31-15.33.17:276][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.31-15.33.17:279][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.024
+[2025.07.31-15.38.59:568][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24730.392578
+[2025.07.31-15.39.00:568][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.39.00:568][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24731.060547, Update Interval: 313.691223
+[2025.07.31-15.43.17:715][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.07.31-15.43.17:718][809]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.022
+[2025.07.31-15.44.53:967][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25084.869141
+[2025.07.31-15.44.54:967][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.44.54:967][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25085.535156, Update Interval: 332.533325
+[2025.07.31-15.49.04:208][849]LogDerivedDataCache: C:/Users/malid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.31-15.51.18:696][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25469.767578
+[2025.07.31-15.51.19:696][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.51.19:696][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25470.435547, Update Interval: 345.794250
+[2025.07.31-15.53.18:146][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.31-15.53.18:147][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.023
+[2025.07.31-15.57.43:748][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25855.050781
+[2025.07.31-15.57.44:747][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-15.57.44:748][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25855.718750, Update Interval: 348.625153
+[2025.07.31-16.03.18:563][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.07.31-16.03.18:565][411]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.021
+[2025.07.31-16.04.20:475][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26252.039062
+[2025.07.31-16.04.21:474][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-16.04.21:474][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26252.707031, Update Interval: 317.564026
+[2025.08.01-08.48.30:244][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.08.01-08.48.30:247][924]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.023
+[2025.08.01-08.48.40:985][943]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6DEE750A45E35E78398B4E8F822A24B5, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.01-08.48.40:985][943]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: request failed, libcurl error: 35 (SSL connect error)
+[2025.08.01-08.48.40:985][943]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 0 (Found bundle for host: 0xbcc78880f90 [serially])
+[2025.08.01-08.48.40:985][943]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 1 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.08.01-08.48.40:985][943]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 2 (  Trying 52.73.15.250:443...)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 3 (Connected to api.epicgames.dev (52.73.15.250) port 443)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 4 (ALPN: curl offers http/1.1)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 5 (SSL reusing session ID)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 7 (Recv failure: Connection was reset)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 8 (OpenSSL SSL_connect: Connection was reset in connection to api.epicgames.dev:443 )
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 9 (Closing connection)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: 00000BCCB7936C00: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6DEE750A45E35E78398B4E8F822A24B5
+[2025.08.01-08.48.40:985][944]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.08.01-08.48.41:316][944]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.08.01-08.48.43:449][949]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63916'.
+[2025.08.01-08.48.43:455][949]LogUdpMessaging: Display: Added local interface '192.168.1.103' to multicast group '230.0.0.1:6666'
+[2025.08.01-08.49.21:806][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86549.343750
+[2025.08.01-08.49.22:139][ 66]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B5BE1458B-4DE7-0DC0-79D1-0A8D7E0C1155%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.01-08.49.22:139][ 66]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: request failed, libcurl error: 35 (SSL connect error)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 0 (Connection 116 seems to be dead)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 1 (Closing connection)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 3 (Send failure: Connection was reset)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 5 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 6 (  Trying 52.73.15.250:443...)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 7 (Connected to api.epicgames.dev (52.73.15.250) port 443)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 9 (SSL reusing session ID)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 12 (OpenSSL SSL_connect: Connection was reset in connection to api.epicgames.dev:443 )
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 13 (Closing connection)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 14 (Recv failure: Connection was reset)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: 00000BCCB7931800: libcurl info message cache 15 (Recv failure: Connection was reset)
+[2025.08.01-08.49.22:139][ 67]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B5BE1458B-4DE7-0DC0-79D1-0A8D7E0C1155%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.01-08.49.32:807][ 98]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB3E5453F-4C92-72F5-04FE-DD8F59EE84C6%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.01-08.49.32:807][ 98]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: request failed, libcurl error: 35 (SSL connect error)
+[2025.08.01-08.49.32:807][ 98]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 0 (Found bundle for host: 0xbcc78880d20 [serially])
+[2025.08.01-08.49.32:807][ 98]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 1 (Connection #119 isn't open enough, can't reuse)
+[2025.08.01-08.49.32:807][ 98]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 2 (Hostname api.epicgames.dev was found in DNS cache)
+[2025.08.01-08.49.32:807][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 3 (  Trying 44.209.206.150:443...)
+[2025.08.01-08.49.32:807][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 4 (Connected to api.epicgames.dev (44.209.206.150) port 443)
+[2025.08.01-08.49.32:807][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2025.08.01-08.49.32:807][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 6 (SSL reusing session ID)
+[2025.08.01-08.49.32:807][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.08.01-08.49.32:808][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.08.01-08.49.32:808][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 9 (OpenSSL SSL_connect: Connection was reset in connection to api.epicgames.dev:443 )
+[2025.08.01-08.49.32:808][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 10 (Closing connection)
+[2025.08.01-08.49.32:808][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2025.08.01-08.49.32:808][ 99]LogEOSSDK: Warning: LogHttp: 00000BCCB7939000: libcurl info message cache 12 (Recv failure: Connection was reset)
+[2025.08.01-08.49.33:140][ 99]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB3E5453F-4C92-72F5-04FE-DD8F59EE84C6%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.01-08.49.39:475][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-08.49.39:475][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86566.812500, Update Interval: 358.203674
+[2025.08.01-08.56.19:554][318]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86970.265625
+[2025.08.01-08.56.20:554][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-08.56.20:554][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86970.937500, Update Interval: 326.488831
+[2025.08.01-08.58.35:340][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.08.01-08.58.35:342][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.020
+[2025.08.01-09.02.18:956][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87332.390625
+[2025.08.01-09.02.19:956][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.02.19:956][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87333.062500, Update Interval: 311.523193
+[2025.08.01-09.08.14:682][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87690.835938
+[2025.08.01-09.08.15:682][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.08.15:682][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87691.507812, Update Interval: 340.685455
+[2025.08.01-09.08.35:785][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.08.01-09.08.35:787][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.024
+[2025.08.01-09.14.46:084][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88085.195312
+[2025.08.01-09.14.47:083][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.14.47:083][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88085.867188, Update Interval: 304.187744
+[2025.08.01-09.18.36:232][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.01-09.18.36:234][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.023
+[2025.08.01-09.20.26:476][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88428.164062
+[2025.08.01-09.20.27:476][661]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.20.27:476][661]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88428.835938, Update Interval: 343.602417
+[2025.08.01-09.26.59:207][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88823.898438
+[2025.08.01-09.27.00:207][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.27.00:207][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88824.570312, Update Interval: 334.488953
+[2025.08.01-09.28.36:655][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.01-09.28.36:657][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/maps/map_1' took 0.019
+[2025.08.01-09.31.43:166][688]LogDerivedDataCache: C:/Users/malid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.01-09.33.22:593][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89210.179688
+[2025.08.01-09.33.23:593][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.01-09.33.23:594][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89210.851562, Update Interval: 325.093536
