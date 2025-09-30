@@ -13,11 +13,69 @@ void EmptyLinkFunctionForGeneratedCodeEnemyCharacter() {}
 
 // ********** Begin Cross Module References ********************************************************
 ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
-ENGINE_API UClass* Z_Construct_UClass_ACharacter();
+PAPERZD_API UClass* Z_Construct_UClass_APaperZDCharacter();
 UPackage* Z_Construct_UPackage__Script_weight_of_a_soul();
 WEIGHT_OF_A_SOUL_API UClass* Z_Construct_UClass_AEnemyCharacter();
 WEIGHT_OF_A_SOUL_API UClass* Z_Construct_UClass_AEnemyCharacter_NoRegister();
 // ********** End Cross Module References **********************************************************
+
+// ********** Begin Class AEnemyCharacter Function OnAggroEnd **************************************
+static FName NAME_AEnemyCharacter_OnAggroEnd = FName(TEXT("OnAggroEnd"));
+void AEnemyCharacter::OnAggroEnd()
+{
+	UFunction* Func = FindFunctionChecked(NAME_AEnemyCharacter_OnAggroEnd);
+	ProcessEvent(Func,NULL);
+}
+struct Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "Category", "AI" },
+		{ "ModuleRelativePath", "EnemyCharacter.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_AEnemyCharacter, nullptr, "OnAggroEnd", nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd_Statics::Function_MetaDataParams), Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd_Statics::Function_MetaDataParams)},  };
+UFunction* Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+// ********** End Class AEnemyCharacter Function OnAggroEnd ****************************************
+
+// ********** Begin Class AEnemyCharacter Function OnAggroStart ************************************
+static FName NAME_AEnemyCharacter_OnAggroStart = FName(TEXT("OnAggroStart"));
+void AEnemyCharacter::OnAggroStart()
+{
+	UFunction* Func = FindFunctionChecked(NAME_AEnemyCharacter_OnAggroStart);
+	ProcessEvent(Func,NULL);
+}
+struct Z_Construct_UFunction_AEnemyCharacter_OnAggroStart_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "Category", "AI" },
+		{ "ModuleRelativePath", "EnemyCharacter.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AEnemyCharacter_OnAggroStart_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_AEnemyCharacter, nullptr, "OnAggroStart", nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_AEnemyCharacter_OnAggroStart_Statics::Function_MetaDataParams), Z_Construct_UFunction_AEnemyCharacter_OnAggroStart_Statics::Function_MetaDataParams)},  };
+UFunction* Z_Construct_UFunction_AEnemyCharacter_OnAggroStart()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_AEnemyCharacter_OnAggroStart_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+// ********** End Class AEnemyCharacter Function OnAggroStart **************************************
 
 // ********** Begin Class AEnemyCharacter Function TryAttack ***************************************
 static FName NAME_AEnemyCharacter_TryAttack = FName(TEXT("TryAttack"));
@@ -32,11 +90,11 @@ struct Z_Construct_UFunction_AEnemyCharacter_TryAttack_Statics
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "AI" },
 #if !UE_BUILD_SHIPPING
-		{ "Comment", "// Called by AI when it\xef\xbf\xbds time to attack; do montage/flipbook + hitbox in BP\n" },
+		{ "Comment", "// Events to hook animations & patrol in BP\n" },
 #endif
 		{ "ModuleRelativePath", "EnemyCharacter.h" },
 #if !UE_BUILD_SHIPPING
-		{ "ToolTip", "Called by AI when it\xef\xbf\xbds time to attack; do montage/flipbook + hitbox in BP" },
+		{ "ToolTip", "Events to hook animations & patrol in BP" },
 #endif
 	};
 #endif // WITH_METADATA
@@ -98,11 +156,11 @@ struct Z_Construct_UClass_AEnemyCharacter_Statics
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_WalkSpeed_MetaData[] = {
 		{ "Category", "AI|Tuning" },
 #if !UE_BUILD_SHIPPING
-		{ "Comment", "// Tunables (editable in BP)\n" },
+		{ "Comment", "// Editable AI variables\n" },
 #endif
 		{ "ModuleRelativePath", "EnemyCharacter.h" },
 #if !UE_BUILD_SHIPPING
-		{ "ToolTip", "Tunables (editable in BP)" },
+		{ "ToolTip", "Editable AI variables" },
 #endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_RunSpeed_MetaData[] = {
@@ -127,7 +185,13 @@ struct Z_Construct_UClass_AEnemyCharacter_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bIsAggroed_MetaData[] = {
 		{ "Category", "AI|State" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "// States\n" },
+#endif
 		{ "ModuleRelativePath", "EnemyCharacter.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "States" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bIsAttacking_MetaData[] = {
 		{ "Category", "AI|State" },
@@ -139,7 +203,13 @@ struct Z_Construct_UClass_AEnemyCharacter_Statics
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_TargetPlayer_MetaData[] = {
 		{ "Category", "AI|Target" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "// Target\n" },
+#endif
 		{ "ModuleRelativePath", "EnemyCharacter.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "Target" },
+#endif
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_WalkSpeed;
@@ -158,7 +228,9 @@ struct Z_Construct_UClass_AEnemyCharacter_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
-		{ &Z_Construct_UFunction_AEnemyCharacter_TryAttack, "TryAttack" }, // 2712691899
+		{ &Z_Construct_UFunction_AEnemyCharacter_OnAggroEnd, "OnAggroEnd" }, // 2864881084
+		{ &Z_Construct_UFunction_AEnemyCharacter_OnAggroStart, "OnAggroStart" }, // 1136528381
+		{ &Z_Construct_UFunction_AEnemyCharacter_TryAttack, "TryAttack" }, // 2002800467
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -202,7 +274,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemyCha
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AEnemyCharacter_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_AEnemyCharacter_Statics::DependentSingletons[])() = {
-	(UObject* (*)())Z_Construct_UClass_ACharacter,
+	(UObject* (*)())Z_Construct_UClass_APaperZDCharacter,
 	(UObject* (*)())Z_Construct_UPackage__Script_weight_of_a_soul,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AEnemyCharacter_Statics::DependentSingletons) < 16);
@@ -237,10 +309,10 @@ AEnemyCharacter::~AEnemyCharacter() {}
 struct Z_CompiledInDeferFile_FID_Dev_weight_of_a_soul_weight_of_a_soul_Source_weight_of_a_soul_EnemyCharacter_h__Script_weight_of_a_soul_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AEnemyCharacter, AEnemyCharacter::StaticClass, TEXT("AEnemyCharacter"), &Z_Registration_Info_UClass_AEnemyCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemyCharacter), 1754670434U) },
+		{ Z_Construct_UClass_AEnemyCharacter, AEnemyCharacter::StaticClass, TEXT("AEnemyCharacter"), &Z_Registration_Info_UClass_AEnemyCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemyCharacter), 1749234177U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Dev_weight_of_a_soul_weight_of_a_soul_Source_weight_of_a_soul_EnemyCharacter_h__Script_weight_of_a_soul_4105115426(TEXT("/Script/weight_of_a_soul"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Dev_weight_of_a_soul_weight_of_a_soul_Source_weight_of_a_soul_EnemyCharacter_h__Script_weight_of_a_soul_312379927(TEXT("/Script/weight_of_a_soul"),
 	Z_CompiledInDeferFile_FID_Dev_weight_of_a_soul_weight_of_a_soul_Source_weight_of_a_soul_EnemyCharacter_h__Script_weight_of_a_soul_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Dev_weight_of_a_soul_weight_of_a_soul_Source_weight_of_a_soul_EnemyCharacter_h__Script_weight_of_a_soul_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

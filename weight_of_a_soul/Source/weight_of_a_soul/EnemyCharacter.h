@@ -3,20 +3,19 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Character.h"
+#include "PaperZDCharacter.h"
 #include "EnemyCharacter.generated.h"
 
 
-class ABP_Player;
 UCLASS()
-class WEIGHT_OF_A_SOUL_API AEnemyCharacter : public ACharacter
+class WEIGHT_OF_A_SOUL_API AEnemyCharacter : public APaperZDCharacter
 {
-	GENERATED_BODY()
+    GENERATED_BODY()
 
 public:
     AEnemyCharacter();
 
-    // Tunables (editable in BP)
+    // Editable AI variables
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Tuning") float WalkSpeed = 250.f;
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Tuning") float RunSpeed = 600.f;
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Tuning") float AggroRange = 2000.f;
@@ -24,14 +23,18 @@ public:
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Tuning") float AttackRange = 160.f;
     UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AI|Tuning") float FrontLeadDist = 120.f;
 
+    // States
     UPROPERTY(BlueprintReadWrite, Category = "AI|State") bool bIsAggroed = false;
     UPROPERTY(BlueprintReadWrite, Category = "AI|State") bool bIsAttacking = false;
     UPROPERTY(BlueprintReadWrite, Category = "AI|State") bool bDead = false;
 
+    // Target
     UPROPERTY(BlueprintReadWrite, Category = "AI|Target") AActor* TargetPlayer = nullptr;
 
-    // Called by AI when it’s time to attack; do montage/flipbook + hitbox in BP
+    // Events to hook animations & patrol in BP
     UFUNCTION(BlueprintImplementableEvent, Category = "AI") void TryAttack();
+    UFUNCTION(BlueprintImplementableEvent, Category = "AI") void OnAggroStart();
+    UFUNCTION(BlueprintImplementableEvent, Category = "AI") void OnAggroEnd();
 
 protected:
     virtual void BeginPlay() override;
