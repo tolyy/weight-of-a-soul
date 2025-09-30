@@ -42,6 +42,9 @@ void AEnemyAIController::OnPossess(APawn* InPawn)
     SightConfig->SightRadius = EnemyRef->AggroRange;
     SightConfig->LoseSightRadius = EnemyRef->AggroRange + 200.f;
     PerceptionComp->RequestStimuliListenerUpdate();
+
+    UE_LOG(LogTemp, Warning, TEXT("OnPossess: Controlled pawn = %s"), *GetNameSafe(InPawn));
+
 }
 
 void AEnemyAIController::BeginPlay()
@@ -88,6 +91,12 @@ void AEnemyAIController::OnTargetPerceptionUpdated(AActor* Actor, FAIStimulus St
                 EnemyRef->LoseAggroTime, false);
         }
     }
+
+    UE_LOG(LogTemp, Warning, TEXT("Perception updated: Actor=%s, Sensed=%d"),
+        *GetNameSafe(Actor),
+        Stimulus.WasSuccessfullySensed());
+
+
 }
 
 void AEnemyAIController::LoseAggroCheck()
@@ -107,6 +116,9 @@ void AEnemyAIController::LoseAggroCheck()
 
     // Call your patrol from BP if you want:
     // EnemyRef->CallFunctionByNameWithArguments(TEXT("PatrolUpdate"), *GLog, nullptr, true);
+
+    UE_LOG(LogTemp, Warning, TEXT("LoseAggroCheck fired for %s"), *GetNameSafe(EnemyRef));
+
 }
 
 FVector AEnemyAIController::ComputeFrontSpot2D(const FVector& EnemyLoc, const FVector& PlayerLoc, const FVector& PlayerForward) const
@@ -160,4 +172,10 @@ void AEnemyAIController::TickFollow()
 
     const float Acceptance = EnemyRef->AttackRange * 0.4f; // small dead-zone
     MoveToLocation(Desired, Acceptance, true, true, true, false, 0, true);
+
+    UE_LOG(LogTemp, Warning, TEXT("TickFollow: Aggro=%d, Dead=%d, Player=%s"),
+        EnemyRef ? EnemyRef->bIsAggroed : -1,
+        EnemyRef ? EnemyRef->bDead : -1,
+        *GetNameSafe(PlayerRef));
+
 }
