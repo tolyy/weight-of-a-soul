@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\unrealeditor\\inc\\weight_of_a_soul\\uht\\enemyaicontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\weight_of_a_souleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weight_of_a_soul\\definitions.weight_of_a_soul.h",
+            "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\source\\weight_of_a_soul\\enemyaicontroller.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\ai\\navigationsystemconfig.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navigationsystemconfig.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptiontypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptiontypes.generated.h",
+            "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\unrealeditor\\inc\\weight_of_a_soul\\uht\\enemyaicontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,4 +1,14 @@
 {
 	"Targets": [
+		{
+			"Name": "weight_of_a_soul",
+			"Path": "..\\Source\\weight_of_a_soul.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "weight_of_a_soulEditor",
+			"Path": "..\\Source\\weight_of_a_soulEditor.Target.cs",
+			"Type": "Editor"
+		}
 	]
 }

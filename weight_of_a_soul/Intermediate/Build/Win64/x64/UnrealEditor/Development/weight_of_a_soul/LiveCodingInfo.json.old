@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.weight_of_a_soul.gen.cpp.obj": [
+			"EnemyAIController.gen.cpp.obj",
+			"EnemyCharacter.gen.cpp.obj",
+			"weight_of_a_soul.init.gen.cpp.obj"
+		]
+	}
+}

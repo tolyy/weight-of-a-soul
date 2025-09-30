@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\source\\weight_of_a_soul\\weight_of_a_soul.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\weight_of_a_souleditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\weight_of_a_soul\\definitions.weight_of_a_soul.h",
+            "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\source\\weight_of_a_soul\\weight_of_a_soul.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
