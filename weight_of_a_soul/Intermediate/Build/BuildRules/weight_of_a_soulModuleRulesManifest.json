@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Dev\\weight-of-a-soul\\weight_of_a_soul\\Source\\weight_of_a_soul\\weight_of_a_soul.Build.cs",
-		"C:\\Dev\\weight-of-a-soul\\weight_of_a_soul\\Plugins\\RootMovement\\HostProject\\Plugins\\RootMovement\\Source\\RootMovement\\RootMovement.Build.cs",
-		"C:\\Dev\\weight-of-a-soul\\weight_of_a_soul\\Source\\weight_of_a_soul.Target.cs",
-		"C:\\Dev\\weight-of-a-soul\\weight_of_a_soul\\Source\\weight_of_a_soulEditor.Target.cs"
+		"C:\\Users\\malid\\Documents\\Unreal Projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\Source\\weight_of_a_soul\\weight_of_a_soul.Build.cs",
+		"C:\\Users\\malid\\Documents\\Unreal Projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\Plugins\\RootMovement\\HostProject\\Plugins\\RootMovement\\Source\\RootMovement\\RootMovement.Build.cs",
+		"C:\\Users\\malid\\Documents\\Unreal Projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\Source\\weight_of_a_soul.Target.cs",
+		"C:\\Users\\malid\\Documents\\Unreal Projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\Source\\weight_of_a_soulEditor.Target.cs"
 	],
 	"EngineVersion": "5.6.1"
 }

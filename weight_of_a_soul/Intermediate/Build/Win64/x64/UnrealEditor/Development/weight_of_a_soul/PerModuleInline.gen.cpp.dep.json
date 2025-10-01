@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weight_of_a_soul\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\malid\\documents\\unreal projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weight_of_a_soul\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\weight_of_a_souleditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "PCH": "c:\\users\\malid\\documents\\unreal projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\weight_of_a_souleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\dev\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weight_of_a_soul\\definitions.weight_of_a_soul.h",
+            "c:\\users\\malid\\documents\\unreal projects\\weight_of_a_soul\\weight-of-a-soul\\weight_of_a_soul\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\weight_of_a_soul\\definitions.weight_of_a_soul.h",
             "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],
